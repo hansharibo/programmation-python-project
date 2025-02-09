@@ -1,0 +1,2077 @@
+Prendre du temps pour soi est important pour se retrouver, se connecter à ce que nous sommes et ce dont nous avons besoin.
+
+L'objectif de la Routine Bien-Etre est donc de vous accompagner quotidiennement dans votre bien-être grâce au sport et à des petites astuces de bonheur : pilates, marche, jog et autres petits plaisirs sont au programme.
+
+Ici, vous retrouverez 4 séances JOG. Il est conseillé de réaliser une séance par semaine pendant 4 semaines en complément des 4 séances de PILATES et des 4 séances de MARCHE.
+
+Pour une organisation optimale, on vous conseille de planifier vos 12 séances de sport à travers les 3 programmes.
+
+
+Julie Guery
+Coach sportif
+Semaine 1 - Je marche et je cours
+Une séance qui alterne des phases de 30 secondes de course et 30 secondes de marche. Faîtes ce que vous pouvez. Soyez à l'écoute de votre corps.
+
+01. Je marche et je cours (30 min)
+
+Semaine 2 - J'active mon coeur
+Cette semaine, on stimule le coeur. Surveillez votre pouls et adaptez si besoin. Bon courage !
+
+02. J'active mon coeur (30 min)
+
+Semaine 3 - Je m'améliore
+On vous propose des phases de course de 45 secondes. Adaptez si besoin. Aucune obligation de faire toute la série !
+
+03. Je m'améliore (30 min)
+
+Semaine 4 - Je me défoule !
+On essaie de passer à des séquences de 1 min de course ! En donnant le meilleur de soi-même, on ressent davantage les bénéfices du Jog.
+
+04. Je me défoule (30 min)
+
+Conseil du coach
+"Ces 4 séances de jog sont idéales pour apprendre à courir tout en se respectant. Elles sont tout à fait accessibles aux sportifs débutants qui ont envie de prendre soin d'eux."
+Pour pouvoir suivre ce plan, vous devez être capable de courir 15 minutes sans vous arrêter.
+Il est également préférable d'avoir effectué une visite de contrôle chez votre médecin traitant, afin d'être certain que vous ne souffrez d'aucune contre-indication médicale à la course à pied.
+
+Tous les entraînements commencent par 10 minutes de marche active pour échauffer l'organisme en douceur. Ils finissent par 5 minutes de marche lente pour faciliter le retour au calme. Les périodes de marche permettent aussi d'augmenter la durée totale d'effort.
+
+Dans ce programme peu importe la vitesse à laquelle vous courez. Ce qu'il faut impérativement c'est rester en aisance respiratoire. Vous devrez toujours être capable de parler.
+
+
+Philippe Propage
+Entraîneur international
+Semaine 1 - 25 minutes de course réparties sur 5 fractions !
+Les séances se finissent et se terminent toujours par de la marche. Ainsi on augmente le temps d'effort sans augmenter les contraintes sur les articulations. La marche permet aussi de s'échauffer progressivement et de faire son retour au calme.
+
+01. 5x 5min de course
+
+Semaine 2 - 30 minutes de course en 3 fractions
+Lors de vos séances, pendant le temps de course, vous devez toujours être capable de parler. Dans ce plan, c'est le temps d'effort qui compte et non la vitesse.
+
+02. 3x 10min de course
+
+Semaine 3 - 30 minutes de course en 2 fractions
+Après avoir d'augmenté le temps de course, on diminue celui du repos. Ne courez pas trop vite et vous y arriverez !
+
+03. 2x 15min de course
+
+Semaine 4 - 35 minutes de course en 2 fractions
+Toujours la même consigne, rester bien en aisance respiratoire (vous devez être capable de parler en courant) et vous y arriverez !
+
+04. 20 + 15min de course
+
+Semaine 5 - 40 minutes de course en 2 fractions
+Saisissez toutes les opportunités de la vie quotidienne pour faire de l'activité physique : monter les escaliers (éviter l’ascenseur), marcher pour faire ces achats , se déplacer en vélo, faire de la randonnée...
+
+05. 2x 20min de course
+
+Semaine 6 - 30 minutes de course en continu
+Il va falloir courir 30 minutes sans s'arrêter. Ne partez pas trop vite, restez bien en aisance respiratoire et vous y arriverez !
+
+06. 30min de course en continu
+
+Conseil du coach
+"Vous savez courir 15 minutes et vous voulez allonger la durée de vos sorties. Ce plan va vous accompagner pour réussir à courir 30 minutes."
+Vous avez beaucoup de tâches fastidieuses et répétitives au travail ? Vous voulez être capable de faire des choses plus efficacement ? Python peut vous aider !
+
+Python est l’un des langages de programmation les plus utilisés. Apprendre à coder avec Python est une compétence très recherchée dans beaucoup de métiers. Et pas uniquement pour les développeurs logiciels à temps plein. Tout le monde peut apprendre !
+
+Python vous permet d’automatiser des tâches, comme envoyer des e-mails ou écrire dans des fichiers... Tout ça pour vous aider à terminer des tâches plus efficacement.
+
+Ce cours s’adresse aux personnes qui n’ont jamais vu une ligne de code ou qui n’ont jamais entendu parler de Python. Nous allons avancer ensemble pas à pas de façon amusante et facile à comprendre. Je sais ce que ça fait d’être intimidé par le code, ou de n’y rien comprendre. Je veux donc m’assurer que personne ne ressente la même chose. 
+
+Dans ce cours, vous allez enregistrer des informations en tant que données en Python. Vous allez contrôler la logique dans votre code avec des conditions, des boucles et des fonctions. Vous allez aussi automatiser la récupération de données à partir du web avec les packages Requests, Beautiful Soup et CSV, dans le processus appelé extraction de données web. Vous allez beaucoup apprendre et vous passerez un bon moment !
+
+Qu’est-ce qu’on attend ? Commençons !
+
+À la fin de ce cours, vous serez capable de :
+
+Créer des données avec Python
+
+Gérer la logique d'un programme dans Python
+
+Extraire des données du web avec les packages Python
+
+Pour découvrir l'écosystème du développement web et tous les cours que nous vous proposons à ce sujet, nous vous invitons à faire un tour sur notre Carte des Connaissances ! Vous pourrez y voir en un clin d'œil les différents langages et spécialisations auxquels vous pourrez vous former avec OpenClassrooms !
+
+Une carte des cours Openclassrooms
+La Carte des Connaissances
+Objectifs pédagogiques
+Créer des données avec Python
+Gérer la logique de programmation dans Python
+Extraire des données du web avec Python et certains de ses packages
+
+
+Prérequis
+Prérequis
+
+Une compréhension élémentaire du Web et une expérience avec un terminal. Vous pouvez les acquérir en suivant les cours suivants :
+
+Comprendre le Web
+Apprenez à utiliser la ligne de commande dans un terminal
+Et si vous en faisiez votre métier ?
+Suivez une des formations diplômantes de notre école 100% en ligne, et transformez vos connaissances en compétences professionnelles.
+
+Formations jusqu’à 100 % financées
+Date de début flexible
+Projets professionnalisants
+Mentorat individuel
+DÉVELOPPEMENT
+Développeur d'application Python
+Construisez des applications web en utilisant le langage de programmation Python et le framework Django.
+Diplôme de niveau 6 (bac +3/4)
+À plein temps : 12 mois
+Table des matières
+PARTIE 1
+Créez des données avec Python
+1
+Tirez un maximum de ce cours
+2
+Lancez votre premier programme Python
+3
+Enregistrez vos données avec des variables
+4
+Classez des données avec les types de données
+5
+Enregistrez des groupes de données avec les listes
+6
+Enregistrez des données complexes avec des dictionnaires
+Quiz : Créer des données avec Python
+PARTIE 2
+Gérez la logique du programme dans Python
+1
+Contrôlez le déroulement de votre programme avec des conditions
+2
+Répétez des tâches facilement à l’aide de boucles
+3
+Regroupez des tâches en utilisant des fonctions
+4
+Écrivez du code en évitant les erreurs courantes
+Quiz : Gérer la logique de programmation dans Python
+PARTIE 3
+Extrayez des données du web avec les packages Python
+1
+Importez des packages Python
+2
+Extrayez et transformez des données avec l’extraction web
+3
+Chargez des données avec Python
+4
+Relevez les défis de l’extraction de données web
+Quiz : Extraire des données du web avec Python et certains de ses packages
+Lancez votre premier programme Python
+
+Bienvenue sur l’école 100% en ligne des métiers qui ont de l’avenir.
+Bénéficiez gratuitement de toutes les fonctionnalités de ce cours (quiz, vidéos, accès illimité à tous les chapitres) avec un compte.
+
+Pourquoi utiliser Python ?
+Python est un langage de programmation très répandu et facile à apprendre. Il est adapté aussi bien aux débutants qu’aux experts par sa simplicité, sa syntaxe lisible et sa variété d’usages. Si vous voulez devenir un développeur web, un analyste, un data scientist ou un expert marketing, Python peut vous aider à réaliser vos tâches.
+
+La première fois que vous vous lancez dans le codage, ça peut être intimidant. Il y a beaucoup de choses qui nous paraissent étrangères à assimiler. Mais n’oubliez pas qu’à un moment, tous les experts en Python, même les meilleurs, se sont retrouvés dans votre position.
+
+Le codage sous Python peut paraître étrange, mais c’est une compétence comme une autre. Il faut y consacrer du temps et des efforts, tout comme pour Excel, une nouvelle langue ou du jardinage. Je dis toujours aux gens que la partie la plus difficile à propos du codage n’est pas la syntaxe ou la logique. C’est l’effort à fournir pour apprendre et pour surpasser la voix dans votre tête qui vous dit que vous n’êtes pas assez bon. Donc n’oubliez pas : si ça devient trop compliqué ou confus, ce n’est PAS grave. Continuez. Vous y arriverez !
+
+Installez Python sur votre ordinateur
+L’installation de Python est très simple ! Rendez-vous sur python.org, choisissez votre système d’exploitation (Mac/Windows, etc.) et cliquez sur le bouton de téléchargement pour installer Python sur votre ordinateur.  
+
+Si vous utilisez Windows, pensez à bien cocher la case "Add to path" pour ajouter Python aux variables d'environnement.
+
+Exécutez votre premier programme Python
+Maintenant que vous avez installé Python, préparez-vous à exécuter votre premier code Python !
+
+Ouvrez Terminal si vous êtes sur macOS, ou sur l’invite de commande si vous êtes sous Windows (si vous n’utilisez pas un terminal souvent, n’hésitez pas à consulter ce chapitre dans notre cours Apprenez à utiliser la ligne de commande dans un terminal, pour vous rafraîchir la mémoire ou savoir comment ouvrir un programme).
+
+Écrivez   python  , et vous devriez voir des informations à propos de Python apparaître avec   >>>  indiquant où écrire le code. 
+
+Ensuite, écrivez   print("hello, world!")  .
+
+Appuyez sur Entrée pour voir le résultat.
+
+Regardez la capture vidéo ci-dessous pour en savoir plus.
+
+
+Ça y est ! Vous avez exécuté votre premier code Python ! Dans cette capture vidéo, nous avons ouvert un terminal, démarré une console Python (ou Shell) et écrit "hello, world" sur la console.  
+
+Comme vous l’avez vu, vous pouvez exécuter chaque ligne de code Python directement dans le terminal. Vous pouvez aussi écrire du code dans un éditeur de texte séparé, puis l’exécuter en utilisant les commandes du terminal. Vous pouvez utiliser de nombreux éditeurs de texte, mais vous pouvez commencer avec Sublime Text (ressource en anglais). 
+
+Voici comment écrire du code dans un éditeur puis l'exécuter :
+
+print Hello, world
+Écrivez dans l'éditeur.
+Dans l'éditeur, écrivez   print("Hello, world")  .
+
+Sauvegardez le fichier (par exemple, sous le nom helloworld.py).
+
+Ouvrez Terminal si vous êtes sur macOS ou sur l’invite de commande si vous êtes sous Windows. 
+
+Dans le dossier Documents, écrivez "python3" et le nom du fichier que vous avez créé :  python3 helloworld.py  . 
+
+Appuyez sur Entrée pour voir le résultat:   Hello, world  .
+
+Et voilà : code exécuté !
+
+En fonction de votre système d'exploitation et de votre configuration, vous devrez peut-être utiliser la commande 'python' ou 'python3' pour lancer l'interpréteur Python sur le terminal. Les correspondances suivantes sont généralement valides :
+
+Windows :   python  ou py
+
+MacOS / Linux : python3
+
+Environnement virtuel : python
+
+Vous vous doutez bien que Python ne permet pas simplement d'afficher de beaux messages sur l'écran : vous pouvez aussi l'utiliser comme une calculatrice !  En effet, Python est un langage de programmation qui peut être utilisé pour effectuer des calculs mathématiques. Que ce soit pour ajouter, soustraire, multiplier ou diviser des nombres, Python peut faire tout cela, et même des opérations mathématiques plus avancées.
+
+Essayons maintenant de réaliser un petit calcul pour voir tout le potentiel de Python en matière de calcul. Vous serez étonné de voir à quelle vitesse Python peut effectuer des calculs complexes. Nous explorerons en détail les capacités de Python en matière de calcul dans un prochain chapitre, mais pour l'instant, commençons par un petit calcul simple pour voir de quoi Python est capable.
+
+C’est parti !
+
+Comme précédemment, tapez  python  sur votre terminal pour ouvrir l'interpréteur, vous devriez voir apparaître ces fameux chevrons :   >>>  .  
+
+Écrivez maintenant :  (100 + 81) * 11  .
+
+Appuyez sur Entrée pour voir le résultat.
+
+Et voilà : le nombre  1991   apparaît, qui est logiquement le résultat du calcul. Mais ça n’est pas tout, le nombre 1991 est une date importante dans l'histoire de Python, car elle marque la naissance de ce langage !
+
+Voilà, c’est terminé pour l’instant.
+
+Annoncez-le à vos amis : vous savez coder en Python ! 🙌
+
+À vous de jouer ! 
+Pour pratiquer votre premier code Python, essayez l’exercice suivant. 😁
+
+Si vous n’arrivez pas à accéder aux exercices, vérifiez que vous avez bien suivi les instructions de connexion tout au début du cours. 
+
+En résumé
+Python est un langage populaire chez les débutants et les développeurs experts, car il est facile à lire et polyvalent.
+
+Vous pouvez exécuter un script Python dans votre terminal directement à partir d’un éditeur de texte.
+
+La partie la plus difficile à propos du codage est de se dépasser pour garder le moral. Vous pouvez le faire !
+
+Maintenant que vous avez correctement installé et exécuté du code Python, nous allons nous pencher plus en détail sur l’enregistrement de données dans Python, avec des variables.
+
+Et si vous obteniez un diplôme OpenClassrooms ?
+Formations jusqu’à 100 % financées
+Date de début flexible
+Projets professionnalisants
+Mentorat individuel
+Trouvez la formation et le financement faits pour vous
+Qu’est-ce qu’une variable ?
+Imaginons qu’on s’apprête à déménager et qu’il faille ranger nos affaires dans des cartons. Il nous faut un carton pour la vaisselle, un pour les vêtements et un autre pour la télévision. Quand vous faites les cartons, la bonne chose à faire est de leur donner un nom. Ainsi vous saurez ce qui se trouve à l’intérieur.  
+
+Une variable, c’est comme un carton. C’est un moyen d’enregistrer vos données. En tant que développeur, il vous faudra enregistrer certaines informations et leur donner un nom afin de pouvoir les récupérer plus tard. Un nom d’utilisateur, des tickets d’avion encore disponibles, le jour de la semaine, un inventaire... Toutes ces données sont enregistrées dans les variables.  
+
+Chaque objet est relié à une boîte avec un nom dessus. De gauche à droite : un livre, une chaussure, un jouet, un stylo.
+Les variables enregistrent les données comme les cartons permettent de ranger les objets.
+Il est très facile de déclarer une variable dans Python. Le code ci-dessous permet de déclarer une variable.
+
+livre = "Gatsby le Magnifique"
+
+Quand on dit déclarer (ou initialiser) une variable, c’est juste une autre façon de dire « créer une variable ».
+
+Une variable dans Python est constituée de trois éléments :
+
+Son nom.
+
+Son type.
+
+Sa valeur. 
+
+Dans ce chapitre nous allons voir le nom et la valeur, puis nous verrons le type dans le chapitre suivant.
+
+Ici,   livre  est le nom de la variable (donc le nom du carton) et   "Gatsby le Magnifique"  est la valeur de la variable (ce qui se trouve dans le carton). Si vous souhaitez retrouver le titre du livre avec Python, vous pouvez écrire   livre  et vous obtiendrez   "Gatsby le Magnifique"  en retour.
+
+Modifiez une variable
+Il est très simple de modifier la valeur d’une variable. Il suffit simplement d’assigner une nouvelle valeur à la variable.
+
+Voici l’extrait de code qui déclare   livre  avec la valeur   "Gatsby le Magnifique"  puis qui la modifie avec   "Beloved"  .
+
+>>> livre = "Gatsby le Magnifique"
+>>> print(livre)
+Gatsby le Magnifique
+>>> livre = "Beloved"
+>>> print(livre)
+Beloved
+
+Il est intéressant de noter que, syntaxiquement, la réassignation d'une variable en Python ressemble beaucoup à son initialisation, puisqu'on utilise simplement l'opérateur d'affectation  ( )  pour assigner une nouvelle valeur à une variable déjà existante.
+
+Affichez des variables
+Nous avons vu comment afficher une seule variable avec la fonction print  . Passons maintenant au niveau supérieur ! Parfois, on a besoin d'afficher des messages un peu plus élaborés, en mélangeant des variables et des chaînes de caractères. Pas de panique, on va apprendre comment faire tout ça facilement avec la f-string.
+
+La f-string ? 😧
+
+Pour afficher des variables, la f-string est souvent utilisée car elle permet d'insérer facilement les variables dans la chaîne de caractères à afficher. Une f-string est une chaîne de caractères précédée d'un  f   (ou  F   ), et contenant des expressions entre accolades {}  qui seront évaluées lors de l'exécution du programme. Voyons sans attendre un exemple !
+
+nom = "Dupont"
+prenom = "Jean"
+age = 30
+
+print(f"Bonjour, je m'appelle {prenom} {nom} et j'ai {age} ans.")
+Dans cet exemple, nous avons trois variables : nom  , prenom  et age  . En utilisant la notation f-string, nous pouvons facilement les combiner dans une phrase en utilisant les accolades {}  pour indiquer où chaque variable doit être insérée. Le résultat sera le suivant :
+
+Bonjour, je m'appelle Jean Dupont et j'ai 30 ans.
+
+À vous de jouer !
+Maintenant, essayez cet exercice rapide pour vous assurer que vous suivez bien :
+
+>>> nourriture_preferee = "Glace"
+>>> nouvelle_nourriture_preferee = "Pizza"
+>>> nourriture_preferee = "Pâtes"
+>>> print(nourriture_preferee)
+Quel va être le résultat de ce programme ? Prenez une minute pour y réfléchir avant de regarder plus bas !
+
+>>> print(nourriture_preferee)
+Pâtes
+Si vous aviez deviné Pâtes  , bravo ! L’extrait de code déclare deux variables,   nourriture_preferee  et   nouvelle_nourriture_preferee  . Il définit ensuite   nourriture_preferee  comme étant Pâtes  , donc ce qui avait été déclaré avant pour   nourriture_preferee  n’est plus pris en compte. En réalité, une variable est simplement un raccourci pour aller chercher ou modifier une valeur dans la mémoire vive de l'ordinateur ! Incroyable, non ?
+
+Nommez une variable
+Un nom de variable doit refléter son contenu, comme le nom sur un carton. Voici quelques recommandations générales pour choisir un nom :
+
+Utilisez des noms descriptifs dans votre code.
+Vous avez déjà retrouvé un vieux classeur dans un carton avec le nom « Trucs importants » sur la couverture ? C’était frustrant, n’est-ce pas ? Les noms de variables descriptifs et spécifiques simplifient la vie, et facilitent la lecture et la modification de votre code. Au lieu de   quantite  (ou pire,  qte  ), ajoutez des détails :  quantite_en_stock  ,  solde_actuel  , etc.
+
+Utilisez des mots complets.
+Évitez d’abréger ou de raccourcir les mots autant que possible, même si une alternative plus courte paraît évidente. Par exemple,  revenu_annuel  est plus clair que  rev_annuel  .
+
+Suivez une convention d’appellation commune. Il est recommandé de suivre la convention d'appellation du snake case en Python, conformément à la PEP8 qui est le standard de la syntaxe en Python : des noms composés de plusieurs mots séparés par des tirets bas (  _  ) comme  nombre_de_chats  ,   reponse_finale  ,   le_meilleur_developpeur_python_du_monde  , etc.
+
+Commencez avec une lettre ou le tiret bas.
+Un nom de variable ne peut pas commencer par un nombre.
+
+Utilisez uniquement les lettres, les chiffres et  le tiret du bas... et surtout pas d'accents !
+Par exemple, écrivez  bonjour_1  mais pas  bonjour_#1  .
+
+N’oubliez pas que les noms de variables sont sensibles à la casse.
+age,   Age  et   AGEsont trois variables différentes. 
+
+À vous de jouer ! 
+Utilisons ce que nous venons de voir dans ces premiers chapitres en pratiquant vos nouvelles connaissances dans Replit 😁
+
+Si vous n’arrivez pas à accéder aux exercices, vérifiez que vous avez bien suivi les instructions de connexion tout au début du cours. 
+
+En résumé
+Une variable a un nom et une valeur, comme un carton avec un nom et des choses à l’intérieur.
+
+Vous pouvez déclarer une variable avec le nom de la variable (par exemple,   livre  ), un signe « égal à » =  et la valeur (par exemple,   "Gatsby le Magnifique"  ). Il se peut que la valeur nécessite des guillemets avant et après, mais cela dépend du type de données dont il s’agit (ce que nous traiterons dans le chapitre suivant).
+
+Nommez une variable de manière claire et descriptive pour rendre le code plus lisible et faciliter sa compréhension.
+
+Maintenant, vous savez comment enregistrer vos données avec des variables. Il vous reste à apprendre comment classer vos données avec les types de données. On voit ça dans le prochain chapitre.
+Classez des données avec les types de données
+
+Bienvenue sur l’école 100% en ligne des métiers qui ont de l’avenir.
+Bénéficiez gratuitement de toutes les fonctionnalités de ce cours (quiz, vidéos, accès illimité à tous les chapitres) avec un compte.
+
+Qu’est-ce qu’un type de données ?
+Un type de données est une manière de classifier les différentes variables. Prenons l'exemple d'un fruit que l'on peut classifier selon son type, comme une pomme ou une orange, par exemple. Pour une variable, son type est déterminé par la nature de sa valeur. Par exemple, une variable qui contient un nombre sera de type numérique, tandis qu'une variable qui contient une chaîne de caractères sera de type chaîne de caractères. Les types de données sont comparables aux types de données que l'on peut utiliser dans un tableur Excel, comme les nombres et les mots.
+
+Les types de données les plus simples, ou primitifs, utilisés dans Python, sont :
+
+les entiers (Integers, en anglais) ;
+
+les virgules flottantes (Floats, en anglais) ;
+
+les chaînes de caractères (Strings, en anglais) ;
+
+les booléens.
+
+Houlà… ça va trop vite ! 😵 Des types de données primitifs ? Booléens ? C’est quelle langue, ça ?!
+
+Pas de panique ! Il faut vous habituer à plusieurs nouveaux termes au fur et à mesure que vous réfléchissez comme un ordinateur, mais nous les verrons l’un après l’autre ensemble. 😎
+
+Commençons par les deux premiers, ce sont tous les deux des valeurs numériques.
+
+Découvrez les types de données numériques : entiers et virgules flottantes
+Les types numériques se divisent en deux catégories dans Python : les entiers (Integers) et les virgules flottantes (Floats).
+
+Un entier est un nombre entier :
+
+1
+
+4
+
+3 934
+
+Une virgule flottante est un nombre décimal :
+
+3,14
+
+563,2
+
+99,9
+
+Les nombres 100 et 100,0 ont l’air de se ressembler, mais dans Python, l’un est un entier et l’autre est une virgule flottante. Vous devinez lequel est lequel ? (Astuce : celui qui a une décimale est une virgule flottante !) 
+
+Voici des exemples de variables avec des données numériques. Quelles sont les virgules flottantes et quels sont les entiers ?
+
+taux_de_conversion = 3.2 
+
+nombre_dabonnes = 1304
+
+nombre_de_likes = 234 
+
+duree_de_lepisode = 29.1
+
+Si vous avez deviné que   taux_de_conversion  et   duree_de_lepisode  sont des virgules flottantes et que les deux autres sont des entiers, c’est correct !
+
+N’oubliez pas qu’en anglais, les virgules deviennent des points ! Par exemple, si l’on écrit 12,4 en français, dans Python on écrit 12.4.
+
+Tout comme sur les nombres dans Excel ou avec une calculatrice, vous pouvez réaliser toutes sortes d’opérations arithmétiques avec des entiers et des virgules flottantes dans Python. Voici quelques exemples d’opérateurs arithmétiques que vous pouvez utiliser dans votre code :
+
+x + y  : la somme de x et y (x plus y).
+
+x - y  : la différence entre x et y (x moins y).
+
+x * y  : le produit de x et y (x fois y).
+
+x / y  : le quotient de x et y (x divisé par y).
+
+x % y  : le reste de x divisé par y.
+
+Expérimenter avec l’arithmétique est un excellent moyen de s’essayer à un peu de programmation basique. Vous pourrez pratiquer avec un exercice à la fin de ce chapitre.
+
+Définissez les chaînes de caractères
+"chaîne de caractères", c’est juste un mot sophistiqué pour ne pas dire... eh bien, “mot”. Une chaîne, c’est une information (généralement du texte) entourée de guillemets (soit simples soit doubles). Donc,   'bonjour'  avec des guillemets simples et  "bonjour"  avec des guillemets doubles sont tous les deux des chaînes. Et  "au revoir"  et   "quoi de neuf"  aussi. 
+
+Quand on utilise des nombres dans une variable, il faut juste se rappeler que   '912'  et   "912"  sont des chaînes simplement parce qu’ils sont entourés par des guillemets, alors que   912  est un nombre entier. Concrètement, comme ce sont des informations dans votre code,   '912'  et   "912"  fonctionnent en tant que chaînes de caractères, alors que   912  fonctionne en tant que valeur numérique.
+
+Voici quelques autres exemples de variables de type string (chaîne de caractères) :
+
+salutations = "bonjour !"
+
+le_professeur = "Paul-Emile"
+
+prenom = "Sam"
+
+citation_inspirante = "vous ratez 100 % des opportunités que vous ne saisissez pas"
+
+Les booléens : vrai ou faux ?
+Ne soyez pas intimidé par ce nom étrange ! Un booléen, c’est assez simple. Il n’y a que deux options de valeur :   True  (vrai) ou   False  (faux).   
+
+Les booléens peuvent être très utiles pour déterminer si une action est réussie ou pas.
+
+Par exemple, si vous voulez avoir une variable qui enregistre le fait qu’il y a du soleil dehors ou pas, vous pouvez dire  temps_ensoleille = True  . S’il n’y a pas de soleil, alors  temps_ensoleille = False  .
+
+Les booléens sont particulièrement importants quand on commence à former le déroulement logique du code (dans la partie 2) !
+
+
+La fonction "type()" en Python est utilisée pour déterminer le type de données d'une variable. Elle renvoie le type de l'objet en tant que sortie, tel que 'int', 'str', 'bool', etc. Cela permet aux développeurs de vérifier rapidement et facilement le type de données avec lesquelles ils travaillent.
+
+À vous de jouer ! 
+Variables, données et types... Oh là là... Ne partez pas, ce n’est pas si terrible une fois qu’on a un peu de pratique. Réussissez cet exercice dans Replit pour vous sentir plus à l’aise !
+
+Si vous n’arrivez pas à accéder aux exercices, vérifiez que vous avez bien suivi les instructions de connexion tout au début du cours. 
+
+En résumé
+Un type de données est une catégorie ou une classe d’information dans votre code.
+
+Il y a de nombreux types de données, mais les plus simples sont les virgules flottantes (nombres décimaux), les entiers (nombres entiers), les booléens (vrai/faux) et les chaînes de caractères (texte entre guillemets). 
+
+La fonction type()  permet de déterminer le type d’une variable.
+
+Maintenant que vous savez comment classer les données avec des types de données, nous allons nous intéresser à des données complexes, comme les listes.
+
+Et si vous obteniez un diplôme OpenClassrooms ?
+Formations jusqu’à 100 % financées
+Date de début flexible
+Projets professionnalisants
+Mentorat individuel
+Trouvez la formation et le financement faits pour vous
+Enregistrez des groupes de données avec les listes
+
+Bienvenue sur l’école 100% en ligne des métiers qui ont de l’avenir.
+Bénéficiez gratuitement de toutes les fonctionnalités de ce cours (quiz, vidéos, accès illimité à tous les chapitres) avec un compte.
+
+Qu’est-ce qu’une liste et pourquoi l’utiliser ?
+Les pommes, les oranges, les poires. 🍎🍊🍐 Les chiens, les chats, les lapins. 🐕🐈🐇  Vous utilisez les listes tout le temps dans votre vie quotidienne, et c’est pareil dans Python. Vous devez avoir une liste pour y enregistrer une collection d’objets auxquels vous voulez accéder plus tard.
+
+Dans Python, on utilise des crochets  [ ]  pour indiquer une liste. Le code suivant crée une liste de différentes plateformes de réseaux sociaux, et la sauvegarde dans une variable appelée  plateformes_sociales  .
+
+plateformes_sociales = ["Facebook", "Instagram", "Snapchat", "Twitter"]
+Savez-vous quel type de données est utilisé dans cette liste ? Si vous avez vu les guillemets, vous avez peut-être immédiatement identifié ces valeurs comme des chaînes de caractères. Les listes acceptent n’importe quel type de données aussi, et même des combinaisons de types de données.
+
+Maintenant que la liste est sauvegardée, il faut que vous puissiez accéder aux éléments à l’intérieur.
+
+Accédez aux éléments d’une liste
+Pour accéder aux éléments d’une liste, on utilise un indice. Chaque élément a un indice qui lui correspond, selon sa position dans la liste. Vous obtenez la valeur de cet indice avec la syntaxe suivante :  liste[indice]  . Elle vous renverra la valeur de la liste qui est à la position de l’indice.
+
+L’important est de noter que dans la plupart des langages de programmation, y compris Python, l’indice commence à 0, pas 1. Donc si vous voulez accéder au premier élément dans la liste ci-dessus, vous devez taper :
+
+>>> plateformes_sociales[0]
+"Facebook"
+Pour accéder au deuxième élément, tapez :
+
+>>> plateformes_sociales[1]
+"Instagram"
+... et ainsi de suite.
+
+En particulier dans Python, vous pouvez aussi accéder aux éléments en sens inverse, en utilisant des nombres négatifs. Pour accéder au dernier élément de la liste, utilisez l’indice -1.
+
+>>> plateformes_sociales[-1]
+"Twitter"
+Accédez aux caractères d’une chaîne comme un élément d’une liste
+Les indices fonctionnent aussi avec les chaînes de caractères ! En fait, les chaînes de caractères sont juste des listes de caractères. Chaque caractère correspond à un indice qui va de zéro à la longueur de la chaîne.
+
+Par exemple, dans la chaîne  langage  = "PYTHON"  ,  langage[2]  vous renverra  "T" . Tout simplement parce que l’indice 2 dans le mot "PYTHON" est le "T". Ou bien, avec l’indice de la position inverse, vous devez utiliser  langage[-4]  pour accéder à  "T"  .
+
+>>> langage_de_programmation = "PYTHON"
+>>> langage_de_programmation[2]
+"T"
+>>> langage_de_programmation[-4]
+"T"
+Le mot Python avec les indices et les indices inversés de chaque lettre. T est un élément à l'indice 2 et à l'indice inversé -4.
+Pour la chaîne "Python", vous devez utiliser l’indice "2" ou l’indice inversé "-4" pour accéder au troisième caractère qui est la lettre "T".
+Modifiez les éléments d’une liste
+Maintenant que vous savez créer une liste et accéder à chaque case de cette liste, il est temps de passer à l'étape suivante : la modification des éléments de cette liste.
+
+Mais comment faire pour modifier un élément déjà présent dans la liste ?
+
+C’est très simple, pour modifier une case d'une liste, il suffit d'utiliser l'indice de la case que l'on souhaite modifier, et d'y affecter la nouvelle valeur à l'aide de l'opérateur d'affectation (=), tout comme pour une variable.
+
+>>> plateformes_sociales[2] = "Linkedn"
+>>> print(plateformes_sociales)
+["Facebook", "Instagram", "LinkedIn", "Twitter"]
+Ajoutez, retirez et triez les listes
+Dans Python, c’est très simple de réaliser toutes sortes d’opérations avec les listes. Au lieu de créer une toute nouvelle liste à chaque fois que vous voulez ajouter, retirer ou trier des éléments, vous pouvez faire appel à une méthode de liste. Nous allons voir les méthodes plus tard, mais pour l’instant, vous devez juste savoir qu’une méthode est une façon de réaliser une opération spécifique sur un élément.  
+
+Par exemple, pour ajouter une plateforme de réseau social à la fin de la liste existante, vous pouvez utiliser la méthode  append()  :
+
+>>> plateformes_sociales.append("TikTok")
+>>> print(plateformes_sociales)
+["Facebook", "Instagram", "Snapchat", "Twitter", "TikTok"]
+Pour retirer un élément spécifique d’une liste, vous pouvez utiliser la méthode  remove()  .
+
+>>> plateformes_sociales.remove("Snapchat")
+>>> print(plateformes_sociales)
+["Facebook", "Instagram", "Twitter", "TikTok"]
+remove()  retire uniquement la première instance du terme que vous saisissez.
+
+Pour connaître la longueur de la liste, utilisez la méthode  len()  .
+
+>>> len(plateformes_sociales)
+4
+N’essayez pas d'accéder à un indice supérieur ou égal à la taille de la liste, car cela provoquera une erreur d'index (IndexError). Ici,  plateformes_sociales[4]   provoquerait une erreur d’index, car cette case n’existe pas.
+
+La dernière méthode que nous allons voir est  sort()  . Elle trie les éléments de la liste. Le tri se fait alphabétiquement pour les listes de chaînes, et numériquement pour les listes de nombres.
+
+>>> plateformes_sociales.sort()
+Il y a beaucoup d’autres méthodes que vous pouvez utiliser avec les listes. Vous les trouverez dans la documentation Python.
+
+Voici un avant-goût de ces méthodes :
+
+extend()
+
+Ajoute plusieurs éléments à la fin de la liste.
+
+insert()
+
+Insère un élément à une position donnée dans la liste.
+
+pop()
+
+Supprime et renvoie l'élément à une position donnée de la liste, ou le dernier élément si aucun indice n'est spécifié.
+
+index()
+
+Renvoie la première occurrence de l'élément spécifié dans la liste.
+
+count()
+
+Renvoie le nombre d'occurrences de l'élément spécifié dans la liste.
+
+reverse()
+
+Inverse l'ordre des éléments de la liste.
+
+
+Découvrez les tuples
+Les tuples sont une autre structure de Python qui sert à enregistrer des données. Au lieu des crochets   [ ]  , ils se caractérisent par les parenthèses   ()  .
+
+plateformes_sociales_tuple = ("Facebook", "Instagram", "TikTok", "Twitter")
+Beaucoup des propriétés des tuples sont similaires à celles des listes normales. Par exemple, les listes et les tuples utilisent tous deux les indices. La principale différence est que les tuples sont immuables, alors que les listes sont modifiables. 
+
+“Immutable”, en anglais (“immuable”, en français), signifie qu'un objet ne peut pas être modifié après sa création. Par exemple, les strings sont des objets immuables, ce qui signifie qu'une fois qu'une chaîne de caractères est créée, elle ne peut pas être modifiée.
+
+
+Trouvez un élément
+Pour savoir si un élément est présent dans une liste ou un tuple, on peut utiliser l'opérateur in  . Cet opérateur retourne True  si l'élément est présent dans la séquence, et False  sinon.
+
+>>> nombres = [1,2,3,4,5]
+>>> 5 in nombres
+True
+>>> 8 in nombres
+False
+À vous de jouer !
+Réalisez cet exercice guidé étape par étape. 😁
+
+Si vous n’arrivez pas à accéder aux exercices, vérifiez que vous avez bien suivi les instructions de connexion tout au début du cours. 
+
+En résumé
+Une liste est un moyen d’enregistrer plusieurs données ensemble.
+
+Accédez aux éléments de la liste via l’indice, qui commence à 0.
+
+Modifiez une liste en utilisant les indices et l’opérateur d’affectation =  .
+
+Vous pouvez ajouter, retirer, trier les listes et bien plus, en utilisant les méthodes de listes.
+
+Les tuples sont comme des listes, mais sont définis par des parenthèses   ()  à la place de crochets   []  , et ils sont immuables.
+
+Maintenant que vous savez ce qu’est une liste, et comment faire des opérations simples, nous pouvons avancer vers un autre type de données appelé “dictionnaire”.
+
+Et si vous obteniez un diplôme OpenClassrooms ?
+Formations jusqu’à 100 % financées
+Date de début flexible
+Projets professionnalisants
+Mentorat individuel
+Trouvez la formation et le financement faits pour vous
+
+Enregistrez des données complexes avec des dictionnaires
+
+POUR LES ÉTUDIANTS
+Alternance
+Formations diplômantes
+Cours
+Financements
+Expérience de formation
+Forum
+Blog étudiants
+POUR LES EMPLOYEURS
+Solutions de formations et recrutement
+Recruter en alternance
+Développer les connaissances
+Booster les compétences
+Blog employeurs
+Enregistrez des données complexes avec des dictionnaires
+
+Bienvenue sur l’école 100% en ligne des métiers qui ont de l’avenir.
+Bénéficiez gratuitement de toutes les fonctionnalités de ce cours (quiz, vidéos, accès illimité à tous les chapitres) avec un compte.
+
+Qu’est-ce qu’un dictionnaire ?
+Parfois vous avez besoin de représenter des données plus complexes que des nombres, des chaînes ou des listes.
+
+Un dictionnaire est une structure de données qui enregistre des données dans des paires clés-valeurs. Voici un exemple d’une clé et d’une valeur :  
+
+"responsable_de_campagne": "Jeanne d'Arc"
+
+La clé est   "responsable_de_campagne"  et la valeur est   "Jeanne d'Arc"  . 
+
+Les dictionnaires sont indiqués par des accolades {}  au début et à la fin. Chaque paire clé-valeur comprend un deux-points  :  placé entre la clé et la valeur, et une virgule  ,   à la fin. Chaque dictionnaire doit être composé de clés uniques.
+
+Dans le diagramme ci-dessous, le dictionnaire défini a trois éléments, et chaque élément est une paire clé-valeur.
+
+La clé de l'élément 1 est Rouge, sa valeur est #FF0000. Les éléments 2 et 3 sont Vert et Bleu
+Chaque élément dans le dictionnaire est une paire clé-valeur.
+Créez un dictionnaire
+Imaginons que vous vouliez enregistrer des informations à propos d’une nouvelle campagne pour une entreprise de nourriture pour chien. Vous allez probablement devoir sauvegarder un nom de campagne, des dates de début et de fin, le nom d’un responsable de campagne, et des influenceurs importants. Vous pouvez sauvegarder toutes ces informations dans une variable avec un dictionnaire.
+
+Pour enregistrer tout cela, vous pouvez sauvegarder un dictionnaire comme ça :
+
+nouvelle_campagne = {
+"responsable_de_campagne": "Jeanne d'Arc",
+"nom_de_campagne": "Campagne nous aimons les chiens",
+"date_de_début": "01/01/2020",
+"influenceurs_importants": ["@MonAmourDeChien", "@MeilleuresFriandisesPourChiens"]
+}
+Vous pouvez aussi créer un nouveau dictionnaire avec des accolades vides  {}  ou la fonction  dict()  , et avec des paires clés-valeurs comme indiqué ci-dessous :
+
+taux_de_conversion = {}
+taux_de_conversion['facebook'] = 3.4
+taux_de_conversion['instagram'] = 1.2
+taux_de_conversion = dict()
+taux_de_conversion['facebook'] = 3.4
+taux_de_conversion['instagram'] = 1.2
+Accédez à une valeur dans un dictionnaire
+Pour accéder aux différentes valeurs, vous pouvez utiliser la clé pour chacune des paires clés-valeurs.
+
+>>> nouvelle_campagne['responsable_de_campagne']
+"Jeanne d'Arc"
+>>> taux_de_conversion['facebook']
+3.4
+Réalisez des opérations courantes avec les dictionnaires
+Comme pour les listes, plusieurs méthodes (ou opérations) intégrées à Python vous permettent de manipuler les données dans les dictionnaires.
+
+Ajoutez une paire clé-valeur
+Pour ajouter une paire clé-valeur à un dictionnaire, ajoutez juste une nouvelle clé dans le dictionnaire existant. Si la clé existe déjà, vous l’écraserez en définissant une valeur. Le code suivant crée un dictionnaire appelé   infos_labradoodle  , et enregistre des informations à propos du poids et de l’origine des labradoodles, un croisement de chiens.
+
+infos_labradoodle = {
+    "poids": "13 à 16 kg",
+    "origine": "États-Unis"
+}
+Pour ajouter une nouvelle paire clé-valeur, comme le nom scientifique du labradoodle, ajoutez simplement :
+
+infos_labradoodle['nom_scientifique'] = "Canis lupus familiaris"
+Maintenant,   infos_labradoodle  renvoie :
+
+>>> print(infos_labradoodle)
+{'poids': '13 à 16 kg', 'origine': 'États-Unis', 'nom_scientifique': 'Canis lupus familiaris'}
+}
+Si vous écrivez   infos_labradoodle["poids"] = "45 kg"  , la valeur existante sera écrasée, et le résultat sera donc :
+
+>>> infos_labradoodle["poids"]
+"45 kg"
+Supprimez une paire clé-valeur
+Pour supprimer une paire clé-valeur, vous pouvez utiliser le mot-clé  del  et la clé que vous voulez supprimer, ou encore la méthode   pop  . Pour supprimer la paire clé-valeur  "origine"  de la paire  clé-valeur  , écrivez :
+
+>>> del infos_labradoodle["origine"]
+>>> print(infos_labradoodle)
+{ "poids": "13 à 16 kg",
+"nom_scientifique": "Canis lupus familiaris"}
+Certains mots font partie du langage Python, et ne peuvent pas être utilisés comme noms de variables. Par exemple, del  , if  et else  . Ces mots sont connus comme étant des mots réservés ou des mots-clés. 
+
+Voici encore quelques méthodes couramment utilisées pour manipuler des dictionnaires :
+
+keys()
+
+​​Retourne une vue sur les clés du dictionnaire.
+
+values()
+
+Retourne une vue sur les valeurs du dictionnaire.
+
+items()
+
+Retourne une vue sur les couples (clé, valeur) du dictionnaire.
+
+get(clé)
+
+Retourne la valeur associée à la clé spécifiée. Si la clé n'est pas présente dans le dictionnaire, retourne la valeur None  .
+
+pop(clé)
+
+Supprime la clé spécifiée et retourne la valeur associée. Si la clé n'est pas présente dans le dictionnaire, retourne la valeur None  .
+
+clear()
+
+Supprime tous les éléments du dictionnaire.
+
+Vérifiez l’existence d’une clé spécifique
+Vous pouvez utiliser le mot-clé in  pour vérifier si une clé spécifique existe dans un dictionnaire. Pour faire cela, spécifiez la clé que vous voulez rechercher, écrivez le mot-clé in  et le nom de la variable du dictionnaire que vous examinez. Le résultat renvoie un booléen qui indique si la clé est dans ce dictionnaire. Par exemple, si vous voulez voir si la clé « poids » existe dans votre dictionnaire   infos_labradoodle  , écrivez le code qui suit : 
+
+>>> "poids" in infos_labradoodle
+True
+>>> "race" in infos_labradoodle
+False
+À vous de jouer ! 
+Maintenant que vous vous êtes familiarisé avec quelques opérations, pratiquez la manipulation de dictionnaire en utilisant toutes les méthodes vues précédemment. 😁
+
+Si vous n’arrivez pas à accéder aux exercices, vérifiez que vous avez bien suivi les instructions de connexion tout au début du cours. 
+
+Nous aimerions avoir votre retour d'expérience sur Replit. Nous sommes actuellement en phase d'expérimentation et votre avis compte ! 
+Partagez-nous vos retours sur ce formulaire.
+
+En résumé
+Un dictionnaire est un moyen d’enregistrer des paires clés-valeurs qui représentent un objet plus grand.
+
+Vous pouvez créer un dictionnaire avec des accolades {}  , et y mettre toutes les clés-valeurs dès le début, ou les ajouter au fur et à mesure.
+
+Chaque clé dans un dictionnaire doit être unique.
+
+Résumé de la partie 1
+Félicitations ! Vous avez atteint la fin de la partie 1 du cours, et vous pouvez maintenant créer des données, les blocs de code de base du code Python. Vous avez déjà fait beaucoup !
+
+Vous avez utilisé des variables pour enregistrer des informations comme données dans le code Python.
+
+Vous avez utilisé des types de données pour classer différents types de données : les entiers, les virgules flottantes, les chaînes de caractères et les booléens.
+
+Vous avez utilisé des listes et des tuples pour enregistrer des données qui sont liées.  
+
+Vous avez utilisé des dictionnaires pour enregistrer des données complexes.
+
+Vous êtes bien parti pour devenir développeur Python ! Maintenant c’est le moment de tester vos connaissances sur la création de données dans Python ! Vous allez passer un quiz. Ensuite, dans la partie 2, vous allez apprendre à gérer la logique du programme.
+Champ lexical avec "débutant"
+
+skieur,néophyte,novice,bizut,jeune,kyu,noob,amateur,avancé,confirmé,premier,expérimenté,junior,ski,développeur,erreur,kit,joueur,pratique,newbie,apprenti,arpète,aspirant,bizuth,bleu,commençant,écolier,élémentaire,élève,employé moins ancien,fondateur,ignorant,incomplet,inexpérimenté,inexpert,inhabile,initial,joueur de niveau débutant,liminaire,mousse,naissant,neuf,nouveau,originaire,originel,père,primitif,primordial,recrue,rudimentaire,stagiaire,subalterne,Tyro
+
+mystérieux,mystère,inconnaissable,obscur,étranger,anonyme,ignoré,connu,incertain,équation,peur,visiteur,soldat,explorer,individu,caché,impénétrable,inouï,auteur,candidat,inaccessible,inexplicable,étrange,familier,incompris,aventurier,inexploré,lointain,connaître,énigmatique,hasard,incognito,inédit,introuvable,méconnu,sans nom,découvrir,insolite,jusqu'alors,révélation,révéler,singulier,spécialiste,bel,curiosité,découvert,grand public,saut,explorateur,fragment,insoupçonné,nouveau,poète,absent,accidentel,anonymat,apatride,arbitre,autre,bizarre,cabalistique,clandestin,discrétion,dissimulé,ésotérique,exceptionnel,hermétique,inaccoutumé,inattendu,indéterminé,inéprouvé,inexpérimenté,inexploité,inhabituel,inimaginé,innomé,innommé,innovation,insu,intermédiaire,inviolé,irrévélé,masquer,méconnaitre,morgue,neuf,occulte,oublié,précieux,rare,rarissime,remarquable,sacré,sacrer,secret,témoin,ténébreux,terra incognita,tiers,troisième,unique,voiler
+
+Si vous lisez cet article, il y a fort à parier que la dernière fois que vous avez fait du sport remonte à vos cours d’EPS (Éducation Physique et Sportive) au lycée.
+
+Peut-être avez-vous déjà essayé de commencer un plan d’entraînement pour la maison il y a quelques mois, mais vous avez baissé les bras ?
+
+Peu importe votre expérience ou vos échecs passés… Vous voulez vous (re)mettre au sport ? Nous allons vous aider à passer à l’action !
+
+Notre astuce pour passer à l’action :
+
+Tout est question de motivation. Peut-être devriez-vous réfléchir à ceci : une seconde suffit pour décider que cela vaut la peine de vous (re)mettre au sport, dix minutes seulement pour réaliser votre premier entraînement et deux semaines pour sentir la différence, être en meilleure forme et plus dynamique !
+
+Une sportive débutante se remet au sport
+
+Tout ce dont vous avez besoin pour démarrer du bon pied et maintenir votre routine d’entraînement est résumé dans ce guide pratique :
+
+COMMENT BIEN DÉMARRER VOTRE ENTRAÎNEMENT ET VOUS METTRE AU SPORT ?
+CONNAISSEZ-VOUS LES NOMBREUX BIENFAITS DU SPORT ?
+Même si l’exercice physique est bon pour la santé, nous ne sommes pas toujours bien conscient·e·s de tous ces bienfaits.
+
+Découvrez les principaux bienfaits du sport lorsque vous commencez à vous entraîner :
+
+risque moins élevé de maladie chronique(1)
+meilleure humeur et santé mentale(2, 3)
+plus d’énergie tout au long de la journée et un sommeil de meilleure qualité
+ralentissement du processus de vieillissement(4)
+stimulation de l’activité cérébrale(5)
+effet positif sur le microbiote(6)
+booste la vie sexuelle
+ 
+
+BIENFAITS DU SPORT :  À QUELLE FRÉQUENCE FAUT-IL S’ENTRAÎNER ?
+Voici les recommandations générales :
+
+Cardio : au moins 150 minutes de cardio à intensité modérée ou 75 minutes de séances cardio intenses par la semaine. Vous pouvez aussi combiner les deux.
+Musculation : des exercices qui sollicitent les groupes musculaires principaux au moins deux fois (ou plus) par semaine.
+Pour obtenir encore plus de bienfaits : ajoutez 300 minutes par semaine de cardio à intensité modérée ou 150 minutes de séances cardio intense par semaine (ou une combinaison des deux).(7)
+Cela peut vous sembler beaucoup mais la bonne nouvelle c’est que vous pouvez ajuster votre entraînement à votre emploi du temps ! À partir du moment où vos séances cardio durent au moins 10 minutes, vous pouvez diviser vos minutes actives en autant de sessions par semaine que vous le souhaitez. À vous ensuite de décider si vous voulez commencer par du cardio ou de la musculation.
+
+LES DIFFÉRENTS TYPES D’EXERCICES
+Quels sont les types d’exercices les plus courants ?
+
+Le cardio : toute activité qui fait grimper votre fréquence cardiaque et vous oblige à respirer plus vite est considérée comme du cardio. Parmi toutes les activités physiques qui vont améliorer votre endurance, on distingue :
+Les séances de cardio modérées : la marche rapide, la danse, la course lente, le vélo (vitesse modérée), la natation…
+Les séances de cardio intenses : le running, le vélo (vitesse rapide), la marche rapide en côte, la nage rapide…(8)
+Lena Gercke fait une pompe
+La musculation : tout type d’activité qui utilise la résistance pour développer la force musculaire. Découvrez dans cet article les avantages de l’entraînement au poids du corps.
+Entraînement de souplesse et de mobilité : des exercices qui ont pour but de maintenir et d’améliorer l’amplitude passive (souplesse) et l’amplitude active (mobilité) de vos mouvements.
+HIIT : les séances HIIT ou entraînements par intervalles à haute intensité se composent d’exercices explosifs suivis d’intervalles de repos dans le but de maintenir votre fréquence cardiaque élevée. Apprenez-en plus sur la différence entre le HIIT (Hight Intensity Interval Training) et le LISS (Low Intensity Steady State).
+QUELS SONT LES EXERCICES EFFICACES POUR PERDRE DU POIDS ?
+N’importe quel type d’exercice qui requiert un gros efforts vous fera perdre du poids, même si vous êtes débutant·e.(9)
+
+En réalité, le type d’exercice n’a pas grande importance ! Trouvez des activités sportives que vous aimez faire et que vous pourriez effectuer régulièrement plus d’un mois ou deux. En définitive, perdre du poids est une question de déficit calorique : c’est-à-dire brûler plus de calories que vous n’en consommez. Alors essayez d’ajuster votre alimentation pour de meilleurs résultats.
+
+CONSEILS POUR BIEN DÉMARRER L’ENTRAÎNEMENT ET SE METTRE AU SPORT
+Première étape : atteindre le niveau de forme physique avec lequel vous ne “ détesterez ” plus faire de l’exercice. Voici comment faire :
+
+IDENTIFIEZ CE QUI VOUS MOTIVE ET FIXEZ-VOUS UN OBJECTIF
+Combien de fois avez-vous décidé de démarrer un plan d’entraînement maison afin de perdre 5 kilos… et pour finalement arrêter en cours de route ? Adoptez une approche différente et décidez tout d’abord ce que vous aimeriez améliorer. Réfléchissez à ce que vous aimeriez être capable de faire – même s’il s’agit de choses simples – comme être en meilleure forme, avoir plus d’énergie et être productif·ive. Trouvez une source d’inspiration et fixez-vous des objectifs à court et long terme.
+
+Retrouvez dans notre vidéo des conseils pratiques et détaillés pour vous fixer les bons objectifs de fitness et booster votre motivation :
+
+
+DÉMARREZ EN DOUCEUR ET ENREGISTREZ VOS PROGRÈS
+Il s’agit ici tout d’abord de vous fixer des objectifs à court terme.
+
+Concentrez-vous sur une semaine à la fois. Faites votre entraînement de la journée. Puis le suivant. Relevez le défi de trouver 15 à 45 minutes par jour, le plus souvent possible pour être plus actif·ive.
+
+Une fois la première semaine terminée, faites un petit récapitulatif et poussez un peu plus loin : ajoutez un entraînement par semaine ou juste 5 minutes supplémentaires à votre prochaine séance de cardio.
+
+Mettre en place une routine d’entraînement et s’y tenir est plus important que la durée et le type d’entraînements que vous faites. Et lors de vos journées particulièrement chargées, des séances d’entraînement de 7 à 10 minutes peuvent aussi être très bénéfiques, en particulier pour les débutants.
+
+Il faut du temps pour voir les premiers résultats. Les applications adidas Training et adidas Running peuvent vous aider à suivre vos progrès et vous soutenir dans votre parcours de remise en forme, depuis votre première séance d’entraînement jusqu’au premier plan d’entraînement que vous aurez réalisé en entier. Soyez fier·e de chaque minute d’activité que vous ajoutez à votre programme !
+
+ANTICIPEZ LES POSSIBLES ÉCHECS ET PRÉVOYEZ UN PLAN B
+Sauter un entraînement ou attraper un rhume ne devrait pas vous déstabiliser, même après les 2 ou 3 premières semaines. Nous devons tous faire face aux petits problèmes du quotidien.
+
+Votre objectif n’est pas d’être parfait·e, mais de vous améliorer avec le temps. Ce qui importe est de ne pas abandonner et de ne pas vous laisser décourager par une baisse de régime ou quelques imprévus..
+
+Mikaela Shiffrin s'entraîne
+Voici des exemples typiques de problèmes que vous pouvez rencontrer et nos conseils pour les surmonter :
+
+Vous avez prévu un entraînement mais n’avez soudainement aucune énergie pour le faire ? Si vous vous sentez déjà épuisé·e au réveil, faites une petite pause et concentrez-vous uniquement sur ce que vous allez manger au cours de cette journée de repos et essayez d’en apprendre un peu plus sur l’alimentation. Si la baisse de régime survient dans l’après-midi, faites une petite séance d’entraînement à la maison pour vous détendre et avoir une journée active.
+Vous vous sentez stressé·e ou votre motivation est en chute libre ? Il est tout à fait normal de se sentir débordé·e . Accordez-vous un jour de repos et veillez à passer une bonne nuit de sommeil.
+Vous n’avez rien fait pendant quelques jours et vous avez mauvaise conscience ? Réfléchissez à la raison qui vous a poussé à faire l’impasse sur vos entraînements : le stress, un emploi du temps trop chargé, le manque de sommeil ? Essayez d’en tirer une leçon car cela risque fort de se reproduire. Préparez-vous à reprendre l’entraînement là où vous l’avez laissé. Chaque échec que vous rencontrez peut vous rendre plus fort·e à condition de savoir pourquoi il s’est produit. Courage !
+CONSEILS SUPPLÉMENTAIRES POUR LES DÉBUTANTS QUI VEULENT SE METTRE AU SPORT
+VÉRIFIEZ VOTRE ÉTAT DE SANTÉ
+Il est toujours recommandé de consulter un médecin avant de procéder à de grands changements dans votre style de vie, comme débuter un nouveau programme d’entraînement, en particulier si vous avez plus de 45 ans, si vous souffrez d’une maladie chronique ou si vous avez été blessé·e dans le passé.
+
+NE VOUS ÉPUISEZ PAS DÈS LE DÉBUT
+En anglais on parle de no pain, no gain (” souffrir pour réussir “). Mais, en tant que débutant, faut-il vraiment repousser vos limites toujours plus loin ? Certes, il faut faire des efforts, mais le plus important c’est de garder la constance et la régularité comme base de votre entraînement.
+
+Combien de temps faut-il à votre corps pour s’habituer à l’entraînement ?
+
+Tout dépend à quand remonte la dernière fois où vous avez été en bonne forme physique…mais ne vous laissez pas décourager par les courbatures. On dit souvent qu’il faut “ 2 semaines pour ressentir un changement, 4 semaines pour voir des résultats et 8 semaines pour que les autres les remarquent aussi.”
+
+Faites de votre mieux pour être plus actif·ive mais ne vous forcez pas à faire un exercice si vous ressentez des douleurs. La vraie bataille a lieu dans votre tête et le plus dur est de maintenir le cap lors des premiers mois. Une fois que l’entraînement sera devenu une habitude, vous pourrez alors repousser vos limites encore plus loin.
+
+CONCENTREZ-VOUS SUR LA BONNE EXÉCUTION DES EXERCICES
+Prévenez les blessures et optimisez vos résultats en évitant les erreurs de posture les plus fréquentes. Lorsque vous commencez à vous entraîner, n’essayez pas de maîtriser trop d’exercices en même temps. Concentrez-vous plutôt sur la bonne exécution d’un exercice tous les deux jours. Et si vous ne vous sentez pas prêt·e à réaliser un exercice, ne vous forcez pas ! Il existe de nombreuses façons de remplacer un exercice par une variante plus facile. Faites ce que vous pouvez tout en vous concentrant sur la bonne exécution des mouvements et soyez patient·e : la force et l’endurance se développeront avec le temps !
+
+PLANS D’ENTRAÎNEMENT ET EXERCICES POUR LA MAISON
+Entraînement HIIT, exercices Tabata, yoga… il y a beaucoup de choses que vous pouvez faire à la maison sans équipement :
+
+Abdos, corps en entier, foam rolling : 6 entraînements maison
+Entraînement HIIT pour débutants : 5 entraînements rapides à faire en vacances
+Fessiers et abdos : entraînement HIIT de 21 minutes
+Ensemble du corps : séance Tabata en seulement 15 minutes
+Exercices pour se réveiller : entraînement de 7 minutes pour bien démarrer la journée
+10 exercices pour renforcer les muscles du tronc
+Yoga, récupération, abdos…: 4 entraînements maison parfaits pour les longs mois d’hiver
+Entraînements à faible impact (sans saut) pour les personnes ayant des douleurs au genou
+Un entraînement de 10-minutes pour l’ensemble du corps
+Vous manquez d’idées pour vous entraîner ? Obtenez un plan d’entraînement personnalisé de 12 semaines dans l’application adidas Training – avec seulement deux séances par semaine – pour rester en forme ! Et si vous avez plutôt envie de vous concentrer sur vos abdos, nous avons aussi ce qu’il vous faut !
+
+choose to move training banner
+
+Fixez-vous un objectif en faisant au moins deux séances d’entraînement par semaine. N’oubliez pas de prévoir votre playlist préférée pour vous motiver davantage !
+
+***
+
+TAGS
+ENTRAÎNEMENTFITNESSADIDAS TRAINING
+Hana Medvesek
+Hana Medvesek
+Hana étudié la physiothérapie et est convaincue que le mouvement est un des meilleurs remèdes. Elle adore courir, faire de la musculation et tester de nouvelles recettes.
+TOP 7 DES SPORTS POUR DÉBUTANT
+Top 7 des sports pour débutant
+Quel sport débutant ?
+Trop souvent on entend dire « je n’y arriverai jamais », « je n’ai jamais fais de sport, c’est trop tard pour débuter »
+
+Ces affirmations sont fausses !
+Il n’est jamais trop tard pour prendre soin de sa santé et se mettre au sport ! Il suffit de trouver un sport qui vous plaise et surtout de débuter en douceur afin que l’organisme s’adapte et que vous preniez du plaisir.
+
+Pour cela, Perf&fit a sélectionné le top 7 des sport débutant, des activités physiques qu’il est tout à fait possible de commencer pour vous amis sportifs débutants !
+
+Sport débutant quel sport pour commencer une activité physique- Perf&fit
+1/ LA MARCHE / LA COURSE À PIED À PETITE ALLURE
+Effectivement, aucun matériel n’est nécessaire pour ce sport débutant.
+Il vous suffit d’enfiler vos baskets et de profiter du beau soleil et du paysage à côté de chez vous !
+
+Pour débuter commencez par pratiquer 30 min de marche rapide. Puis petit à petit vous pouvez effectuer des petites foulées si vous vous en sentez capable.
+
+Alternez marche / petites foulées pendant 1 min de chaque.
+
+L’objectif final sera de rester en petites foulées pendant 30 min :-)
+
+Au suivant.
+
+2/ LE VÉLO COMME SPORT DÉBUTANT
+Avec tout les vélos en libre service dans les grandes villes, vous avez le choix !
+
+Le vélo a la particularité d’être doux pour vous articulations, effectivement aucun impact n’est ressenti par le corps.
+
+Privilégiez le vélo à chaque fois que vous en avez l’occasion si vous habitez dans une grande ville, pour vos sorties diverses.
+
+Sinon investissez dans un VTT , la rentabilité sera bien vite là !
+
+Mais encore ?
+
+3/ LE PILATES
+Discipline douce en pleine essor, le Pilates permet de renforcer le corps en profondeur et en pleine conscience.
+
+A travers des postures et mouvements réfléchis anatomiquement pour les bienfaits du corps, vous vous assurerez de vous construire une base sportive solide, redressant ainsi vos dos voûtés, arrangeant vos douleurs lombaires ou encore améliorant votre perception corporelle et votre précision dans vos gestes du quotidien.
+
+Quoi d'autre ?
+
+4/ L’AQUABIKING
+Ce sport est accessible à tout les niveaux et préserve vos articulations. L’aquabiking tonifie les muscles en profondeur. De nombreuses salles de sport proposent des cours.
+
+Next.
+
+5/ LE TRX EN SPORT DÉBUTANT
+Petit joujou merveilleux facile à fixer sur la porte de son salon, il suffit de faire appel à un coach à domicile pour qu’il vous guide sur les très nombreuses façons d’utiliser cet accessoire sportif qu’il vous faut absolument. Vous le trouverez en vente dans les enseignes sportives.
+
+Au suivant.
+
+6/ LE YOGA COMME SPORT DÉBUTANT
+Sport bien-être par excellence le yoga est tout à fait adapté pour débuter une activité physique qui sollicite l’ensemble du corps.
+
+Le Yoga combine les bienfaits sur le corps et sur l’esprit. Tout bénef’dans la société stressante qui nous entoure !
+
+Vous trouverez des cours de yoga dans des associations proche de chez vous ou pour plus de résultats qualitatifs, nos coachs à domicile vous accompagnent pour des cours de Yoga privés.
+
+Et enfin.
+
+7/ L’ESCALADE
+Discipline très amusante dès la première séance, l’escalade se démocratise de plus en plus. Cette activité sportive vous permettra de vous muscler les bras et les jambes mais pas seulement !
+Les capacités cérébrales sont mises à rudes épreuves lorsqu’il s’agit de réfléchir à comment grimper plus haut en se fatiguant moins.
+
+Renseignez vous sur internet, de nombreux blocs sont installés partout en France.
+
+Et voici !
+
+Vous voilà maintenant bien armé pour débuter l’activité de votre choix !
+
+Ne soyez pas trop exigeant envers vous même et soyez patient, les résultats n’apparaissent pas du jour au lendemain.
+
+Pratiquez l’activité physique de votre choix régulièrement, nous conseillons de débuter avec une séance d’une heure par semaine.
+
+Nos derniers conseils pour préserver votre santé : associez le sport à une alimentation équilibrée et n’oubliez pas de vous hydrater pendant vos séances.
+
+Perf&fit reste à votre disposition pour vous accompagner dans votre objectif de reprise sportive 
+
+Bel été !
+Se mettre au sport, comment commencer ?
+Baskets, jogging, sueurs, courbatures, si ces mots ne vous parlent pas ou vous font peur cet article est fait pour vous ! Si vous ne savez pas par où commencer le sport, je vous accompagne.
+
+Sommaire
+1
+Comment se motiver à faire du sport
+2
+Se mettre au sport après 40 ans
+3
+Quel sport pour débutant·e choisir ?
+Pas évident de choisir une activité physique quand votre dernier contact avec le sport remonte à plus de 10 ans. Avec le temps, vous remarquez que votre souffle aussi prend quelques années. Les balades à vélo du dimanche deviennent plus difficiles, le bas du dos fait des siennes … Ah, les bienfaits de l’activité physique, on les avait presque oubliés. C’est décidé, aujourd’hui, vous commencez le sport !
+
+Comment commencer le sport ?
+Pour l’instant plusieurs obstacles ralentissent votre remise au sport: le manque de temps, la motivation, l’appréhension, commencer le sport avec peu ou pas de condition physique peut freiner votre élan mais ne soyez pas trop exigeant·e avec vous, pratiquez avec progressivité, laissez votre corps s’habituer tranquillement à la fréquence et à l’intensité de la pratique sportive. Peu importe votre choix, ce qui va vous aider à maintenir votre élan c’est le plaisir ! Et si aujourd’hui vous ne ressentez pas le besoin de faire du sport, demain votre le corps vous le réclamera. Alors patience régularité et bienveillance sont désormais vos partenaires favoris !
+
+se mettre au sport comment commencer
+Comment se motiver à faire du sport ?
+Manque de temps ? Hop hop hop il n’y a pas de secret, pour faire du sport il faut s’organiser !
+
+La première chose que vous allez faire c’est une petite place dans votre agenda, et avouons-le, on a le temps pour ce qu’on veut et là ce que vous voulez c’est votre bien être. Alors on bloque un créneau hop, occupé·e, on n’en parle plus !
+
+Bon super, et maintenant ? Vous allez vous poser ces questions pour comprendre quel sport vous correspond le mieux :
+
+- Je préfère faire du sport à l’intérieur, au chaud. Chez moi ? Seul·e ou avec un coach ? En salle ? Quel sport choisir ?
+
+- Moi je veux absolument prendre l’air alors, ce sera dehors. Mais seul·e ou en groupe ? Entre ami·es ? Avec un coach ? Marcher ou courir ?
+
+Autre élément qui est déterminant dans la motivation à faire du sport : les effets de l'activité sur le corps. Et croyez moi, c'est assez spectaculaire quand on est un peu patient·e.
+
+À lire : le dossier "se motiver et rester motivé·e
+Quelle fréquence, quelle intensité quand vous commencez le sport ?
+Pour que les effets de la pratique sportive sur votre corps soient optimales, il est nécessaire de suivre un entraînement régulier. Je vous conseille d’augmenter progressivement la fréquence de 1 à 3 fois par semaine dans l’idéal. Concernant l’intensité, pour commencer, vous devez encore pouvoir parler pendant les efforts, c’est un bon repère. Augmentez votre intensité au fur et à mesure des séances. Soyez à votre écoute.
+
+À lire : quelle fréquence pour commencer à faire du sport
+À lire : quelle fréquence pour commencer à faire du sport
+L’alimentation et l’hydratation dans tout ça ?
+Manger les bonnes choses aux bons moments de votre journée va vous aider à capitaliser sur les efforts consentis en salle de sport ou sur les terrains. Le changement, ça se joue aussi dans l’assiette ! Hydratez vous tout au long de la journée et pendant votre activité physique, cela réduit les risques de crampes et de blessures.
+
+Plus de conseils sport et alimentation
+Y a t-il un âge limite pour débuter le sport ?
+Non ! D'après docteur Boudjemaa, médecin du sport: "on peut se mettre au sport à 30 ans, 40 ans, 50 ans et plus ! L'idéal étant de ne jamais s'arrêter bien entendu. Le plus important est d'avoir une pratique toujours adaptée à ces capacités. A chaque âge le sport à son rôle." Néanmoins se mettre au sport à 40 ans n'est pas la même affaire que se mettre au sport après 60 ans. C'est pourquoi votre reprise sportive doit être de préférence accompagnée par les professionnel·le·s de la santé et du sport (coach sportif, professeur d'Activité adaptée).
+
+Se mettre au sport après 40 ans ?
+Pas d'âge pour commencer le sport mais alors, comment on fait ? Voici nos conseils pour débuter le sport, quel que soit votre âge.
+
+Se mettre à la course à pied après 40 ans
+Faire du sport après 60 ans
+Faire du sport à la maison après 70 ans
+conseils_commencer_le_sport_course_à_pied
+Mathilde : se mettre au sport par hasard
+Mathilde et le sport, c'était loin d'être une évidence. La motivation pour commencer ? Elle n'en avait aucune. Mais c'était sans compter sur l'une de ses copines qui lui a fait découvrir les plaisirs de la course à pied.
+
+Depuis ? Mathilde n'arrête pas de courir.
+
+A lire : comment se mettre au sport par hasard ?
+Quel sport choisir ?
+Vous voulez débuter ou reprendre le sport mais vous ne savez pas lequel choisir parmi la profusion d'activités possibles ? On a pensé à tout et on vous propose de lire notre conseil pour vous aider à trouver VOTRE sport et à le démarrer !
+
+Comment choisir son sport ?
+Comment débuter le sport à la maison
+Un tapis, une tenue confortable et adaptée à l’activité physique, une gourde d’eau et c’est parti ! Vous décidez seul·e des horaires de séance, pas de temps de trajet, vous allez à votre rythme et c’est gratuit !
+
+“- J’ai du mal à me motiver…- t’as essayé un coach à domicile ?? - pfff c’est trop cher…”
+
+Et bien je connais une astuce pour réduire les frais ! Avec le service à la personne, les dépenses engagées pour des cours de sport à domicile est 50% déductible des impôts avec un coach ayant l’agrément “service à la personne”. Quand la motivation s’enfuit, le coach la rattrappe et la renforce ! Que vous le vouliez ou non le rdv est pris, le coach viendra ! C’est une bonne alternative pour se lancer sereinement et être régulier·ère dans l’activité physique.
+
+À lire : un coach sportif, pour quoi faire ?
+Découvrir la routine g.r.e.a.t pour reprendre en douceur
+application gratuite sport
+Un programme d'entraînement pour faire du sport à la maison ?      
+Vous avez besoin ou vous avez envie qu'on vous guide, semaine après semaine, dans un programme pour faire du sport à la maison ? On a la solution : notre application gratuite Decathlon Coach ! Des programmes de sport gratuits à faire chez vous, bien au chaud dans votre salon.
+
+Téléchargez Decathlon Coach
+se mettre au sport comment commencer
+Commencer le sport en salle
+“J’ai une salle à côté de chez moi mais je me sens totalement perdu·e …”
+
+Pour le matériel de musculation, être encadré·e et accompagné·e par un coach c’est plus raisonnable pour commencer.
+
+Vous avez également des cours collectifs ! Avec un·e ami·e ou seul·e, les regards se croisent dans les exercices les plus durs, les participants créent une solidarité à l’effort qui fait du bien !
+
+Quelle activité choisir concrètement en salle ? Le mieux c’est de vous rapprocher des coachs, ils sauront vous guider en fonction de vos envies et besoins (vous dépenser, vous tonifier, vous détendre…).
+
+À lire : faire du sport en salle
+se mettre au sport comment commencer
+ Les sports d’extérieur 
+Pour se mettre au sport, les activités à l’extérieur ou dans l’eau détiennent une multitudes de bienfaits pour le corps et l’esprit. Le développement du système cardio-vasculaire, une meilleure oxygénation du corps, la réduction du stress, une reconnection avec la nature et avec soi. De plus, l’extérieur offre un terrain de jeu inépuisable qui booste la motivation pour maintenir l’activité physique. Privilégiez des espaces avec de la verdure ou en campagne afin d’aider à évacuer le stress, le décor apaise le mental et facilite la respiration contrairement à la ville bruyante et polluée.
+
+ 
+
+À lire : faire du sport à l'extérieur au printemps
+Quel sport choisir quand on est débutant en sport ? idées de sports faciles à pratiquer
+La marche sportive. Sport pour débutant par excellence, accessible à tous, elle ne nécessite aucun matériel hormis une bonne paire de chaussures. 
+
+Pourquoi adopter la marche sportive ?
+Le vélo. Activité ludique, sans impact, accessible, le vélo à tout pour vous séduire ! Les bénéfices de l’activité physique tout en vous baladant, entre amis ou en famille.
+
+Toutes les raisons de se mettre au vélo
+La gym douce. Activité calme qui renforce les muscles de la posture, développe la souplesse et l'équilibre. Avec ou sans matériel cette activité est adaptée à tout public, elle permet un retour progressif et serein vers l'activité physique pour un corps plus fort et plus agile.
+
+Découvrir la gym douce
+La natation. Un sport porté, sans impact pour vos articulations. Permet de se vider la tête à chaque longueur tout en augmentant sa capacité respiratoire et en se tonifiant. Le dos crawlé étant la nage conseillée par les professionnel·le·s du sport et de la santé pour remuscler et/ou tonifier les muscles du dos. 
+
+Les bienfaits de la natation
+Vous avez aimé le vélo ? Vous aimez l’eau ? Alors pourquoi ne pas essayer l’aquabiking ? Ludique et tendance, cette activité qui consiste à plonger un vélo stationnaire dans une piscine a des effets bénéfiques sur le système cardio-vasculaires, en plus de vos jambes : adieu l’effet jambes lourdes ! 
+
+Les bienfaits de l'aquabiking
+L’aquagym. Juste parfait pour commencer en douceur, le cœur et chaque partie du corps sont sollicitées, les articulations sont préservées car c’est une activité portée où les impacts sont limités. 
+
+Rester motivé avec l'aquagym
+Et pourquoi pas la course à pied ? Sa pratique régulière va vous protéger des maladies cardio-vasculaires. Le running a en plus l’avantage de vous faire voir du paysage. C’est souvent plus drôle et plus galvanisant en groupe. A vous de choisir !
+
+Commencer ou reprendre le footing
+programme exercices faciles sport à la maison
+Besoin d'un programme pour la semaine spécial débutant•e ?
+Vous avez 15 minutes ? Reprise en douceur ou entretien quotidien, dans ce programme découvrez des exercices de sport à faire à la maison. Exercices de cardio, exercices de renforcement musculaire, exercices d'étirement, tout y est ! 7 jours, 7 séances avec 6 exercices faciles et accessibles ! Testez-le et racontez-nous !
+
+Découvrir le programme
+Ca y est vous avez choisi (ou presque) l'activité qui va vous réconcilier avec le sport, celle qui va vous redonner envie de prendre soin de vous. N’oubliez pas que commencer un sport c’est aussi l’occasion de faire un check up chez le médecin histoire de partir sur de bonnes bases ;)
+
+Et pour tester un sport, essayez l'une de nos activités
+Vous avez beaucoup de motivation mais vous aimeriez trouver des partenaires pour faire du sport ? Tout.e seul.e, vous ne savez pas trop où aller et vous aimeriez bien découvrir de nouveaux sports ? Ca tombe bien, nous avons pour vous une plateforme qui propose des activités sportives près de chez vous, partout en France !
+
+Decathlon activité
+Les séjours sportifs
+Les vacances sportives de Decathlon Travel sont le moyen idéal de découvrir un nouveau sport, et de l’adopter ! Randonnée, plongée, kayak, randonnée équestre, chiens de traineau… Une dizaine de sports s'incrustent dans vos vacances ! Sur un week-end ou sur plusieurs jours, une initiation avec un pro dans un cadre de rêve en France et ailleurs est un bon moyen de commencer le sport. Pour trouver un séjour à votre niveau, optez pour les séjours "découverte" accessibles à tous et toutes. 
+
+Trouvez votre destination
+Se mettre au sport, comment commencer ?
+portrait_ceciliane_hochart_conseil_sport_redactrice
+Céciliane, rédactrice conseils
+Coach sportif personnalisé et grande adepte des activités artistiques. Toujours présente pour supporter et admirer les grands événements sportifs !
+
+Ces conseils peuvent vous intéresser  
+
+
+objectif sport
+Objectif sport : quel sport choisir ?
+Ca y est, c’est décidé : cette année, vous allez faire du sport ! Mais malgré votre motivation débordante, vous ne savez pas vers quoi vous tourner. Sport collectif ou sport individuel ? En club ou à domicile ? Pour se muscler ou pour maigrir ? Allez, on vous aide à y voir plus clair dans le large choix des activités proposées.
+Remise en forme : comment faire ? Le programme.
+Remise en forme : comment faire ? Le programme.
+Découvrez l'histoire de deux potes qui ont envie de se remettre en forme après 55 ans. Je suis Céciliane, coach sportif depuis 10 ans, je vous raconte comment j'accompagne ce genre d'objectif.
+Femmes marche sportive bienfaits
+Pourquoi faire du sport : santé, moral, plaisir...
+Avouons-le : il n’est pas toujours évident de se motiver à faire du sport. On transpire, c’est dur, on a même parfois mal après une séance intensive, et ce pendant plusieurs jours. Alors pourquoi se démener autant alors que l’appel du canapé se fait fort ? Les bonnes raisons sont multiples, mais on vous en a sélectionné 4 qui vont définitivement vous convaincre de vous y mettre.
+ASTUCES POUR SE MOTIVER A FAIRE DU SPORT
+MOTIVATION : ASTUCES POUR SE MOTIVER A FAIRE DU SPORT
+Fatigue après une journée de travail, épisode 128 de la saison 14 de votre série préférée, ou tout simplement... flemme : on a 1001 bonnes raisons pour ne pas faire de sport. Au fond vous le savez comme moi, ça fait du bien de s’y mettre. Alors, comment trouver la motivation ?
+sport au quotidien
+SPORT QUOTIDIEN, COMMENT S'Y PRENDRE ?
+Si la fréquence et la variété des entraînements restent les facteurs clés de vos progrès en course à pied, d’autres paramètres doivent être pris en compte pour les plus exigeants d’entre nous. Pour atteindre un objectif ambitieux, penchons-nous aujourd’hui sur le rôle de votre poids.
+Pourquoi le sport est bon pour le moral
+“Ca fait rire les oiseaux, chanter les abeilles, ça chasse les nuages et fait briller le soleil !” c’est sans doute du sport dont ce célèbre groupe créole parle ! Une chose est sûre : c’est qu’une fois que vous avez fait votre séance de sport, vous êtes comme sur un nuage de bonne humeur.
+NEWSLETTER
+Encore plus de conseils ? Avec un zeste d'infos sur nos produits ? Avouez que ça serait tout de même mieux si, en plus, c'était vraiment adapté aux sports que vous pratiquez. Alors, dites-nous lesquels !
+
+→ VOTRE ESPACE CLIENT DECATHLON
+QUI EST 
+> Découvrez Decathlon
+
+> Les produits Decathlon
+
+> Le service après-vente Decathlon
+
+> L'espace presse Decathlon
+
+> Postulez chez Decathlon
+
+QUI SOMMES-NOUS
+> C'est quoi et c'est qui Conseilsport ?
+
+> Tous nos dossiers remise en forme
+
+> Nos conseils sportifs par objectif
+
+> Tous nos contenus en vidéo
+
+> Tous nos conseils en podcast
+
+NOS SERVICES POUR LE SPORT
+> Decathlon Coach
+
+> Decathlon Training Plus
+
+> Decathlon Activités
+
+> Decathlon Outdoor
+
+> Decathlon Travel
+
+MES PREMIERS PAS EN MUSCULATION : GUIDE DE LA MUSCULATION POUR DÉBUTANT
+Mes premiers pas en musculation : Guide de la Musculation pour Débutant
+La pratique du sport, du fitness et de la musculation est une tendance de fond de plus en plus grandissante en France. Les nombreuses campagnes de sensibilisation liées à l’obésité ou encore à la nutrition contribuent à pousser les Français à se mettre à une activité sportive. La musculation, est quant à elle, l’activité phare de ces dernières années avec un accroissement fulgurant des inscriptions dans les salles de sport. Tour d’horizon de cette pratique pour bien débuter et progresser rapidement !
+
+Comment bien débuter la musculation ? Cette question légitime est l’une des premières que l’on se pose lorsque souhaite s’inscrire dans une salle de sport ou commencer des entraînements de musculation à la maison. Que l’on soit un homme ou une femme, on se pose beaucoup de questions : quels exercices de musculation faire, comment se muscler rapidement, quel programme de musculation réaliser, combien de séries et le nombre de répétions faire, la fréquence d’entraînement, quels sont les appareils de musculation à utiliser ? Autant de questions que les experts Fitness Park abordent à travers cet article !
+
+Avant d'entrer dans le vif du sujet, il est important de déterminer en premier votre motivation ainsi que votre objectif. Qu’il soit axé sur de la prise de masse musculaire, la perte de poids, la perte de gras, l’entraînement cardio-vasculaire, ou simplement pour de la remise en forme, votre objectif doit pouvoir être réalisable ! La première chose à faire est donc de déterminer précisement votre objectif. Vouloir ressembler à Arnold Schwarzenegger ou tout autre modèle fitness comme Lazar Angelov, Jeff Seid ou encore à miss bikini en 6 mois est strictement impossible.
+
+Un objectif réalisable est la meilleure source de progression pour votre entraînement et vous permettre de garder votre motivation sur la durée. En musculation, l’abnégation et la régularité sont les maîtres mots pour réussir à sculpter le physique que vous souhaitez atteindre ! Pour une progression optimale, fixez-vous des objectifs intermédiaires afin de ne pas être découragé. Le choix de la salle de sport est ensuite un critère important afin d'évoluer dans les meilleures conditions. Ici, vous trouverez un choix parmi plus de 200 salles de sport Fitness Park en France et DOM-TOM. Afin de débuter dans les meilleures conditions, il est important d’appréhender une séance de musculation dans son ensemble. Nous avons découpé pour vous, la séance optimale !
+
+LA SÉANCE DE MUSCULATION POUR DEBUTANT : LE DÉROULEMENT
+Comment choisir son entraînement sans se jeter sur le premier programme trouvé sur internet ? Avec les nombreuses ressources présentes sur le web, il est facile de se retrouver avec un programme inadapté pour les pratiquants débutant la musculation. Si votre objectif est de gagner du muscle rapidement, il conviendra de choisir un programme Full-Body afin de travailler chaque muscle plusieurs fois par semaine. Nous reviendrons en détail sur ce programme à travers cet article.
+
+Chaque séance débute par un programme se déroulant en 3 phases :
+
+L’échauffement
+La séance de musculation
+Les étirements
+ 
+L’ÉCHAUFFEMENT AVANT LA MUSCULATION
+La première phase est très importante, car elle conditionnera l’ensemble de votre séance. En effet, il est important de ne pas négliger l’échauffement, il sert notamment à élever la température corporelle, réduire le risque de blessures, augmenter les performances musculaires et prépare le système cardio-vasculaire. L’échauffement doit être progressif et doit durer environ 10-15 minutes. Pour réaliser un échauffement efficace, nous vous conseillons de débuter par quelques minutes de rameur (environ 4 à 5 minutes). Cet exercice polyvalent permet de faire travailler l’ensemble des groupes musculaires de votre corps ainsi que votre cardio. Pour bien utiliser le rameur, nos coachs peuvent vous expliquer son fonctionnement, n’hésitez pas à les solliciter !
+
+Une fois le corps monté en température, il faut maintenant, préparer localement les muscles qui seront sollicités lors de la séance de musculation. Pour ce faire, réaliser des exercices de base, avec un faible volume de répétitions, et des charges minimes. Par exemple, pour échauffer les pectoraux, vous pouvez réaliser 15 à 20 pompes, des dips ou encore du développé couché avec une barre à vide. S'échauffer au poids du corps est une technique optimale pour préparer le muscle à l'effort. L’objectif est de réaliser pour chaque muscle quelques exercices avec très peu de poids.
+
+LA DURÉE ET LA FRÉQUENCE DES SÉANCES DE MUSCULATION POUR LES DÉBUTANTS
+Maintenant que vous êtes échauffé, vous pouvez débuter votre séance de musculation selon l’objectif que vous souhaitez atteindre ! Une séance de musculation efficace n’est pas forcément une séance qui dure des heures, bien au contraire. Plus vous passez de temps à vous entraîner et plus vous aller vous épuiser et donc être moins performant. Comptez entre 45 minutes et 1h pour la séance en elle-même – c’est-à-dire, en dehors de l’échauffement et des étirements.
+
+Votre fréquence d’entraînement dépend de beaucoup de paramètres (travail, disponibilité, etc.) c’est pourquoi 2 à 4 séances par semaine permettent d’être facilement mises en place et vous assurent aussi une bonne récupération. Lorsque vous débutez en musculation, nous vous conseillons de réaliser 3 séances par semaine : le lundi, le mercredi et le vendredi, afin d’avoir un certain temps de récupération entre les séances et de permettre aux muscles de se remettre des efforts subis. Il faut être en forme pour s’entraîner, ne vous surmenez pas. Vouloir aller trop vite et se surentraîner est le meilleur moyen pour ne plus progresser, se démotiver et surtout augmenter le risque de se blesser.
+
+LES ÉTIREMENTS POUR ÉVITER LES BLESSURES
+Tout comme l’échauffement, les étirements ne sont pas à négliger. Ils permettent la récupération, peuvent diminuer les courbatures et permettent de garder de la mobilité articulaire. Afin de vous étirer correctement après votre séance de musculation, nous avons spécifiquement rédigé un article, intitulé "Les étirements musculaires : pourquoi et quand les réaliser ?". Il vous permettra de mieux comprendre l’importance des étirements et de ses bienfaits dans votre progression en musculation.
+
+LE PROGRAMME DE MUSCULATION POUR DÉBUTANT
+Entrons dans le vif du sujet, mais là encore plusieurs questions vous parviennent ? Vous avez certainement dû entendre parler de différents types d’entrainements tels que le Full-Body, le Half-Body ou encore le Split-Routine ? Ces techniques vous semblent floues ? On vous explique les différences de ces programmes et lequel chaque débutant devrait choisir !
+
+Le programme Full-Body : il s’agit d’entraîner tout le corps à chaque séance (pectoraux, triceps, jambes, dos, biceps, épaules, etc.)
+Le programme Half-Body : cette technique se divise en deux parties. La première consiste à entraîner les muscles du haut du corps (pectoraux, dos, biceps, triceps, épaules), et la seconde, à travailler le bas du corps (ischio-jambier, quadriceps, mollets). Ainsi, on alterne à chaque séance. Une séance haut du corps, suivie par une séance bas du corps, etc.
+Le programme Split-Routine : cette technique, quant à elle, permet de travailler un muscle particulier à chaque séance. Par exemple, le lundi est réservé aux pectoraux et au triceps, puis le mardi est réservé aux jambes, le mercredi au dos et épaule, etc.
+On peut ainsi assigner à chaque programme un niveau de pratique. Pour les débutants, la méthode Full-Body est privilégiée, pour les pratiquants intermédiaires la technique Half-Body est optimale et enfin pour les experts, celle du Split-Routine.
+
+ 
+
+LE FULL-BODY POUR BIEN DÉBUTER EN MUSCULATION
+Quand on commence la musculation, il est préférable de s’orienter par un programme dit Full-Body avec 6 à 8 exercices grand maximum. C’est un programme qui entrainera l’ensemble des muscles de votre corps dans une même séance. L’objectif est de vous faire répéter chaque geste, chaque mouvement plusieurs fois par semaine afin qu’il soit bien réalisé et en toute sécurité. Pour cela, n’hésitez pas dans un premier temps à demander conseil à un coach. Grâce à un entraînement répété de chaque muscle, vous augmenterez plus rapidement votre force, votre endurance et votre résistance. De plus, le volume d’entrainement de chaque muscle étant plus important, la progression et la croissance musculaire seront donc plus rapides. Il s'agit donc de la technique par excellence pour débuter idéalement en musculation.
+
+Une fois familiarisé avec le Full-Body et afin de continuer votre progression vous pourrez vous orienter sur le Half Body. Il s’agit d’alterner une séance haut du corps et une séance bas du corps. L’avantage sera de pouvoir effectuer plus d’exercices par muscles pour un même temps de séance.
+
+Puis enfin viendra le temps du Split Routine, l’isolement de groupe musculaire réparti sur toute la semaine. L’avantage est de permettre une bonne séparation des différents groupes musculaires et ainsi de pouvoir les entrainer de manière encore plus complète et intensive.
+
+LE CHOIX DES EXERCICES
+Pour commencer, préférez le travail sur des machines guidées, pour un mouvement plus sûr et ciblé. Vous pouvez facilement retrouver ces machines dans une dès 200 salles Fitness Park. Elles sont situées dans un espace facilement identifiable. Ces machines permettent une exécution parfaite et maitrisée des mouvements à réaliser. Ainsi, vous évitez les risques de mauvaises postures et de blessures.
+
+Orienter vous sur des exercices de base tels que le développé couché (sur banc libre si vous maitrisez cette technique, machine ou sur cadre guidé), les tractions (tirage à la poulie haute), le squat (presse à cuisse) ou encore les dips. Ce sont des mouvements dits poly-articulaires qui ont l’avantage de faire travailler plusieurs groupes musculaires en même temps. Un développé couché fera travailler les pectoraux, mais aussi les bras, les épaules, contrairement à un exercice d’isolation comme des écartés couché qui aura vraiment pour but d’isoler les pectoraux.
+
+LE NOMBRE DE SÉRIES, DE RÉPÉTITIONS ET LE TEMPS DE RÉCUPÉRATION
+Privilégier toujours la qualité à la quantité ! Il n’est pas nécessaire d’effectuer un grand nombre d’exercices, de séries ou même de répétitions. Comme nous l’évoquions un peu plus haut dans cet article, nous vous conseillons de réaliser 6 à 8 exercices au cours de votre séance. Pour une bonne progression, réaliser 2 à 3 exercices par groupes musculaires, 3 à 4 séries et entre 8 et 15 répétitions.
+
+Les temps de récupération varieront quant à eux entre 30 secondes à 2 minutes en règle générale. Plus le travail sera intensif et plus la récupération sera longue. Sur un programme orienté masse musculaire, on privilégiera donc des exercices avec une grande intensité de travail avec des séries courtes et temps de repos long.
+
+Exemple : Développé couché de 3 à 4 séries de 8 à 10 répétitions avec 2 minutes de récupération entre chaque série.
+
+Sur un programme orienté perte de poids ou définition musculaire, on privilégiera donc des exercices d’une intensité de travail plus faible avec des séries longues et un temps de repos court.
+
+Exemple : Développé couché avec 3 à 4 séries de 12 à 15 répétitions et 1 minute de récupération entre chaque série.
+
+LE PROGRAMME DE MUSCULATION (HOMME ET FEMME) POUR BIEN DÉBUTER
+Maintenant que vous savez comment vous entraînez correctement, voici le programme à suivre qui vous permettra de débuter efficacement en musculation et d'augmenter votre masse musculaire :
+
+Développé couché (pectoraux) – 4 séries de 12 répétitions – 1 minute 30 de repos
+Tirage horizontal à la machine guidée (dos) – 3 séries de 12 répétitions – 1 minute 30 de repos
+Squat (jambes) – 4 séries de 10 répétitions – 2 minutes de repos
+Développé militaire (épaules) – 3 séries de 12 répétitions – 2 minutes de repos
+Curl à la machine guidée (biceps) – 4 séries de 12 répétitions – 1 minute 30 de repos
+Extension triceps à la poulie (triceps) – 4 séries de 10 répétitions – 1 minute de repos
+Notre coach Nassim Sahili a également développé un programme de musculation débutant avec une partie spécialement liée à la nutrition et à la diététique. Vous pouvez consulter cet article pour aller plus loin : Programme de Musculation et Nutrition.
+
+Vous vous intérressez à la musculation, mais n'osez pas franchir le pas ? Venez nous rencontrer ! Nous vous guiderons pour votre première séance afin de vous expliquer chacune des machines et les bonnes positions à adopter. Vous pouvez également visualiser nos offres et vous inscrire directement en ligne. Vous n'aurez plus qu'à venir dans votre club et débuter vos premiers entraînements.
+
+POUR CONCLURE
+Ce qu'il faut retenir : ne soyez pas pressé, comme le dit le proverbe : « tout vient à point à qui sait attendre », et c’est ce qui vous permettra de progresser en toute sécurité. Le deuxième maitre mot est "intensité". Une séance facile sans intensité est une séance inefficace et contre-productive qui ne vous fera que stagner voir régresser. Dernière chose primordiale ne négligez pas le repos et la récupération, espacez vos entrainements et n’oubliez pas que c’est pendant le sommeil que le corps se reconstruit.
+
+Sport à la maison : les 5 meilleurs sites pour vous entraîner en ligne
+Faire du sport à la maison, c’est bien ! Mais encore faut-il trouver la motivation nécessaire pour ne pas abandonner à la première occasion. Pour cela, vous pouvez opter pour un entraînement en ligne : voici une sélection de plateformes qui en proposent.
+
+Le 4 mars 2023 à 14h45
+Sport à la maison : les 5 meilleurs sites pour vous entraîner en ligne
+Sport à la maison : les 5 meilleurs sites pour vous entraîner en ligne
+
+Partager
+La rédaction du Parisien n'a pas participé à la réalisation de cet article.
+Vous avez envie de faire du sport pour vous entretenir ou vous remettre en forme, mais vous avez peur de ne pas arriver à vous motiver seul? La solution est probablement de vous rendre dans une salle de sport pour vous faire coacher. Seulement, cette démarche n’est pas toujours compatible avec un emploi du temps chargé, et il est possible que vous craignez de payer un abonnement très coûteux pour rien. Heureusement, il existe aujourd’hui des moyens fiables permettant de faire du sport à la maison : les plateformes d’entraînement en ligne. Le principe est simple : vous payez un abonnement, moins coûteux d’une souscription à une salle de sport et souvent sans engagement, et vous accédez à des programmes d’entraînement et des cours donnés en direct sur Internet. Cette solution a déjà été adoptée par des centaines de milliers de sportifs, alors pourquoi pas vous? Voici une sélection des meilleurs sites de sport à la maison.
+
+Faites du sport à la maison grâce à ces plateformes en ligne
+Neoness Live, la salle à domicile
+Le concept ? Neoness, c’est tout d’abord un vaste réseau de salles de sport développé dans toute la France. Mais ce n’est pas uniquement cela : ces dernières années, Neoness a développé son offre de coaching en ligne, via son site Neoness Live. Cela permet d’accéder à un vaste choix de cours de fitness en tout genre, donnés par des professionnels, exactement lorsque vous avez le temps de vous entraîner. Une proposition adaptée à ceux dont l’emploi du temps a tendance à beaucoup varier.
+
+Les + : L’abonnement à Neoness Live coûte 19 euros par mois et il est sans aucun engagement. Si vous préférez payer à l’année, et donc vous engager sur cette période, vous pouvez immédiatement payer 149 euros et ainsi faire 34% d’économie. Neoness vous offre 14 jours pour que vous puissiez essayer son offre : cela donne accès aux cours en direct, mais aussi aux différents replays ainsi qu’aux très nombreux programmes sportifs. Il y en a pour tous les niveaux.
+
+Cliquez ici pour découvrir Neoness Live
+
+Nike Training Club, le gratuit
+Le concept ? Nike Training Club est un service communautaire proposé par l’équipementier sportif Nike. Il prend la forme d’une application mobile qui se télécharge gratuitement sur un smartphone fonctionnant avec iOS ou Android. Une fois votre inscription réalisée, vous avez accès à une vaste sélection de programmes qui sont accessibles sans avoir à payer. Vous pouvez comparer vos performances avec les autres membres du club, et ainsi vous motiver pour progresser vers vos objectifs.
+
+Les + : Le fait que plus de 200 programmes d’entraînements disponibles au sein du Nike Training Club soient accessibles gratuitement donne une très bonne raison de vous laisser tenter par l’expérience. Vous pouvez opter pour du yoga, du renforcement musculaire ou encore du cardio, avec des séances qui durent de 5 à 50 minutes. Les exercices sont accompagnés de vidéos qui vous permettent d’effectuer des mouvements précis, ce qui vous évite tout risque de vous blesser.
+
+
+Newsletter Le Guide
+Laissez-vous guider par nos experts conso du quotidien
+S'inscrire à la newsletterToutes les newsletters
+Cliquez ici pour découvrir Nike Training Club
+
+Runtastic, pas que pour les coureurs
+Le concept ? Runtastic est un service de coaching sportif en ligne qui s’est fait connaître pour son système de suivi dédié au running. La plateforme s’est ensuite ouverte à d’autres sports, comme le vélo, puis elle a largement développé son offre lorsqu’elle a été rachetée par Adidas. Runtastic vous permet d’effectuer un suivi de votre activité sportive en utilisant votre smartphone comme indicateur. Sa version payante, plus poussée, donne accès à des programmes d’entraînement.
+
+Les + : Si vous désirez simplement profiter d’un suivi de vos performances liées au running ou au vélo, vous pouvez utiliser l’application mobile Runtastic dans sa version gratuite. Cela vous donne déjà accès à de nombreuses données pertinentes. Si vous désirez aller plus loin aussi bien pour ces sports que pour d’autres, vous pouvez vous tourner vers l’une des offres payantes : la version Pro coûte 5 euros et un abonnement Premium est disponible pour 49,90 euros par an.
+
+Cliquez ici pour découvrir Runtastic
+
+Aaptiv, le coach fitness
+Le concept ? Aaptiv est un service de coaching en ligne qui fonctionne par le biais d’une application mobile, disponible sur iOS et Android. Son accès est totalement payant, mais vous pouvez tout de même profiter d’une période d’essai gratuite si vous désirez tenter l’expérience. La souscription donne accès à plus de 6000 cours, focalisés sur des exercices de type cardio. Cela comprend aussi bien la course à pied que le vélo, l’elliptique, le yoga ou le renforcement musculaire.
+
+Les + : Il est très intéressant de constater qu’Aaptiv propose à la fois des cours en vidéo, qui vous permettent de vous immerger dans une ambiance proche de celle d’une salle de sport, mais aussi des séances de coaching audio. Ces dernières peuvent avoir un effet réellement motivant lorsque vous courrez ou que vous faites du vélo, comme elles peuvent renforcer votre concentration lors d’une séance de yoga. L’abonnement coûte 100 dollars par an.
+
+Cliquez ici pour découvrir Aaptiv
+
+FizzUp, l’assistant bienveillant
+Le concept ? FizzUp est une plateforme de coaching virtuelle qui est particulièrement adaptée aux débutants, ou aux personnes qui souhaitent se remettre au sport en douceur après une longue pause. Le service propose de multiples programmes étalés sur plusieurs semaines, avec une montée progressive de la difficulté. La bienveillance est de mise et un coach personnel se charge de suivre vos performances au quotidien, sans pression dans les résultats. De quoi faire du sport à son rythme.
+
+Les + : FizzUp coûte 19,99 euros par mois, sans engagement, mais vous pouvez aussi opter pour un abonnement de trois mois à 39,99 euros ou d’un an pour 69,99 euros. Cela vous donne accès à la totalité des programmes, ainsi qu’à un suivi de vos progrès par un professionnel. L’application FizzUp ne se contente pas de vous proposer des exercices : elle permet également de réaliser un suivi de votre alimentation pour calculer les calories consommées au quotidien.
+
+Cliquez ici pour découvrir FizzUp
+
+
+
+Sport à la maison : des avantages, mais aussi des inconvénients
+Se décider de prendre un abonnement dans une salle de sport est une étape que beaucoup de personnes ne franchissent jamais. La peur du regard des autres, le prix élevé de l’abonnement et la certitude de ne pas arriver à se motiver sur la durée sont autant de raisons qui l’expliquent. C’est pourquoi opter pour un coaching en ligne peut s’avérer adapté. Avec ce genre d’abonnement, vous pouvez faire du sport chez vous, mais aussi ailleurs lorsque vous êtes en vacances, par exemple. Vous pratiquez vos exercices à l’heure que vous désirez, à l’abri des regards : pour bien des sportifs amateurs, cela s’avère idéal.
+
+Cependant, choisir un coaching en ligne ne signifie pas qu’il n’y a pas d’inconvénients. Certains services affichent des tarifs qui peuvent être proches de ceux d’une salle de sport traditionnelle, ce qui peut sembler prohibitif. Ce constat peut cependant se résoudre en prenant le temps de comparer les prix et les offres. Il y a deux autres difficultés qu’il est nécessaire de surmonter lorsque l’on se lance dans un entraînement en ligne : la première est liée à la motivation. En effet, si cette proposition permet de faire du sport partout, elle permet aussi de se défiler à n’importe quel moment! Il faut donc trouver un rythme convenable pour tenir la distance et arriver à suivre le programme choisi de manière assidue. Pour cela, vous pouvez décider de suivre un coaching en ligne en couple ou entre amis.
+
+Le second défi lié à l’activité sportive suivie en ligne est celui de la bonne pratique. Faire du sport dans de bonnes conditions nécessite d’avoir les bons gestes et les bons mouvements, non seulement pour faire travailler correctement les muscles, mais aussi pour ne pas se blesser. La plupart des plateformes de sport en ligne affichent des descriptions détaillées des mouvements, ou bien des vidéos qui permettent de décomposer les bons gestes. Il est important de prendre le temps de suivre ces consignes : elles remplacent le coach qui ne peut pas être derrière vous pour vous conseiller en direct au moment où vous faites du sport.
+
+Quel sport pratiquer facilement chez soi ?
+Il existe de nombreux sports que vous pouvez pratiquer chez vous. Certains ne demandent aucun accessoire, d’autres nécessitent d’investir quelques dizaines d’euros, tandis que d’autres impliquent des machines plus coûteuses et plus encombrantes. Dans les deux premières catégories, on peut citer les sports suivants :
+
+Le cardio-training, avec des mouvements réalisés par un coach en vidéo et que vous n’avez qu’à imiter chez vous pour transpirer et faire travailler vos muscles,
+Le renforcement musculaire à base de pompes, de squats et de séance d’abdos,
+La corde à sauter, qui demande une bonne coordination, mais qui permet de faire monter rapidement le rythme cardiaque,
+La musculation, que vous pouvez commencer à pratiquer en utilisant des bouteilles d’eau pleines en guise d’haltères,
+La Zumba, simple à pratiquer à l’aide d’un coaching en ligne, mais plus physique qu’on peut l’imaginer!
+Avec un peu d’équipement et un peu de place, vous pouvez aller encore plus loin :
+
+Le vélo d’appartement, qui peut se pratiquer en douceur ou bien à l’aide d’une séance de coaching physique,
+La course à pied sur tapis, pratique quand vous n’avez pas envie de sortir courir dehors,
+Le vélo elliptique, qui muscle toutes les parties du corps,
+Le rameur, l’un des grands classiques des salles de sport, qui prend peu de place.
+Tout dépend de l’espace que vous possédez chez vous, de votre motivation et des parties du corps que vous désirez faire travailler. N’oubliez pas de vous renseigner sur les bons gestes à pratiquer, et de pratiquer des échauffements avant chaque séance : ce conseil est d’ailleurs valable pour absolument tous les sports, que vous les pratiquiez chez vous ou bien à l’extérieur.
+
+Quel matériel acheter pour faire du sport à la maison ?
+Concernant la question du matériel, il y a clairement plusieurs écoles, qui ont toutes des arguments à faire valoir. Certains sportifs estiment que pour s’exercer, il n’y a besoin que du minimum, puisque le corps doit faire la majeure partie du travail ! Dans ce cas, il suffit de s’équiper d’une bonne paire de baskets et d’une tenue confortable, et il est possible de faire de nombreux sports.
+
+D’autres personnes estiment qu’un minimum d’équipement est essentiel. Dans ce cas, on peut s’équiper d’haltères de tailles différentes, d’élastiques permettant de réaliser un renforcement musculaire efficace, d’un tapis de yoga destiné aux exercices au sol… ce ne sont généralement pas des dépenses très coûteuses prises une par une, mais une fois tout l’équipement accumulé, cela peut représenter un budget qui n’est pas négligeable.
+
+Enfin, il y a des sportifs qui ont pour objectif de transformer leur maison en l’équivalent d’une salle de sport : généralement, il faut une pièce dédiée pour arriver à une telle décision. Vélo d’appartement, vélo elliptique, tapis de course, rameur, barre de traction... dans ce genre de situation, il y a clairement l’embarras du choix. Mais cela revient rapidement très cher, puisque l’immense majorité de ces appareils coûtent plusieurs centaines d’euros à chaque fois. Cependant, si vous comptez vous entraîner quotidiennement et sur une longue durée, l’investissement peut s’avérer intéressant par rapport à un abonnement à une salle de sport. Et vous pouvez tout à fait combiner votre installation à un coaching en ligne pour vous accompagner.
+
+Il est, par ailleurs, possible d’associer l’équipement sportif à certains accessoires permettant de suivre l’évolution de vos performances. Dans cette catégorie, on trouve notamment les montres connectées, qui permettent de suivre votre rythme cardiaque et le faux d’oxygène dans votre sang. Les balances connectées sont également utiles pour suivre votre poids, mais aussi votre masse musculaire et votre masse grasse. Tout cela détermine également votre IMC. Voir votre courbe de poids baisser est souvent très motivant, et rien que cela peut valoir l’investissement. À vous de juger !
+Se mettre au sport : 9 conseils pour bien commencer
+par Alexandre Auffret, Kinésithérapeute et Ostéopathe du sport14 novembre 2023
+Alexandre Auffret
+A PROPOS DE L'AUTEUR
+Alexandre Auffret, kinésithérapeute, coach sportif et ostéopathe du sport, je m'efforce de vous fournir les meilleurs conseils pour bien vous soigner, vous entrainer, et prendre soin de votre santé. En savoir plus →
+
+Se mettre au sport est l’une des meilleures choses que vous puissiez faire pour votre santé, que vous ayez 20, 30, 40, 50 ans et plus.
+
+Très rapidement, vous allez pouvoir ressentir les bienfaits que l’activité physique peut avoir sur votre corps, votre ligne et votre bien-être.
+
+Dans cet article, je vais donc vous guider en vous donnant 9 conseils pour se mettre au sport. Vous pourrez les adapter en fonction de vos objectifs, de votre emploi du temps et de vos préférences.
+
+1) Vérifier votre état de santé
+2) Quel sport choisir ?
+3) Combien d’heures de sport par semaine pour débuter ?
+4) À quelle intensité s’entraîner ?
+5) Établir un programme d’entrainement
+6) Se mettre au sport chez soi
+7) S’échauffer, s’hydrater et manger sainement
+8) Se mettre au sport et s’y tenir
+9) Quel sport pour maigrir ?
+ 
+
+
+
+ 
+
+Comment se mettre au sport ?
+Pour se mettre au sport, vous devez savoir par où commencer. En suivant les bons conseils, vous allez réussir à faire du sport et vous y tenir.
+
+En effet, le sport ne doit pas rimer avec souffrance, mais surtout avec plaisir et résultats.
+
+Pour cela, il existe une méthode, et c’est celle que je vous présente ici.
+
+ 
+
+1)  Vérifier votre état de santé
+Demandez à votre médecin si certaines activités vous sont déconseillées, en fonction de votre état de santé.
+
+Généralement, le sport est conseillé à tout âge. De plus, les bénéfices sont encore plus importants si vous n’en avez jamais fait.
+
+Si vous avez des douleurs ou des blessures chroniques, vous pouvez en profiter pour commencer des exercices visant à les soigner.
+
+Il existe de nombreux exercices à faire à la maison pour renforcer vos muscles et soulager vos douleurs.
+
+Vous pouvez utiliser mes différents programmes d’exercices, en fonction de votre douleur, ou consultez un kinésithérapeute.
+
+
+
+ 
+
+2) Quel sport choisir ?
+Les activités les plus conseillées lorsque que vous débutez l’activité physique sont classées en 2 catégories :
+
+Sports cardiovasculaires : marche rapide, randonnée, marche nordique, course à pied, vélo, natation, football, tennis, aviron, sports de combat, rugby, cardio en salle…
+Renforcement musculaire : musculation, crossfit, haltérophilie, gym en salle.
+Idéalement, vous devez choisir choisir au moins une activité cardiovasculaire, que vous pourrez pratiquer régulièrement.
+
+Choisissez celle qui vous paraît la plus accessible, en fonction de votre lieu de vie, votre niveau de forme et votre emploi du temps.
+
+En plus, vous pourrez effectuer du renforcement musculaire 1 à 2 fois par semaine, à la maison ou en salle.
+
+Si vous êtes enceinte, il est également conseillé de faire du sport. Je vous conseille de lire les recommandations spécifiques concernant l’activité physique pour la femme enceinte.
+
+À LIRE: Comment réussir à choisir le bon sport quand on débute ?
+
+ 
+
+ 
+Envie de débuter la course à pied ?
+ 
+Découvrez mon programme Course à pied débutant ! Il regroupe un plan d’entraînement de 16 semaines, des conseils d’entraînement (technique de course, respiration, choix des chaussures …), des conseils pour participer à des compétitions, des séances de renforcement musculaire en vidéos, plus de 50 recettes pour sportifs, et bien plus encore … Il n’est jamais trop tard pour commencer la course à pied et prendre du plaisir.
+ 
+Découvrir
+ 
+ 
+
+3) Combien d’heures de sport par semaine pour débuter ?
+Lorsque vous êtes sportif débutant, il est conseillé de suivre les recommandations suivantes concernant le nombre d’heures de sport par semaine :
+
+Minimum 150 minutes d’activité cardiovasculaire à intensité modérée, ou intense, réparties sur 3 à 5 séances par semaine.
+2 séances de renforcement musculaire, de 20 minutes ou plus chacune. Elles peuvent être réalisées en même temps que le cardio.
+Rester actif au quotidien et les jours sans sport, en incluant de la marche pour limiter la position assise, 4000 pas par jour ou plus.
+Il s’agit du minimum conseillé pour obtenir les bienfaits du sport sur la santé. C’est l’idéal lorsque l’on débute et cela vous permet de vous fixer un premier objectif réalisable.
+
+À LIRE: Combien d’heures de sport dois-je faire par semaine ?
+
+
+
+ 
+
+4) À quelle intensité s’entraîner ?
+L’erreur la plus fréquente qui conduit à tant d’échecs et de blessures chez le sportif débutant : choisir la mauvaise intensité d’exercice.
+
+Il existe 3 niveaux distincts d’intensité pour pratiquer une activité physique :
+
+Faible intensité, vous pouvez facilement parler, avec des phrases complètes, ou même chanter.
+Intensité modérée, vous pouvez parler, 2 ou 3 phrases avant de reprendre votre souffle, mais pas chanter.
+Intensité élevée: vous êtes trop essoufflé pour articuler une phrase complète, vous pouvez simplement dire quelques mots.
+Que vous soyez un sportif débutant ou confirmé, la grande majorité de vos séances de sport doivent être réalisées à une intensité modérée.
+
+C’est à cette intensité que vous bénéficierez des meilleurs résultats sur votre santé, votre forme et aussi pour perdre du poids.
+
+À cette intensité, vous devez respirer un peu plus qu’au repos, mais sans être à bout de souffle. Vous devez avoir chaud, et commencer à transpirer.
+
+1 à 2 fois par semaine maximum, vous pouvez vous entrainer à intensité élevée. Si vous faites plus de séances à ce rythme, vous risquez de ne pas prendre de plaisir, et surtout de vous blesser par manque de récupération.
+
+
+
+ 
+
+5) Établir un programme d’entrainement
+Pour se motiver et se mettre au sport progressivement, vous pouvez établir un planning d’entrainement.
+
+Il existe de nombreux avantages à tenir un programme d’entrainement par semaine :
+
+Mieux s’organiser, en notant dans votre emploi du temps les moments de la semaine où vous pouvez faire du sport.
+Vous fixer des objectifs, comme par exemple respecter son planning de la semaine pour rester motivé.
+Augmenter progressivement le nombre ou le temps d’entrainement pour atteindre vos objectifs.
+Observer les progrès et prendre conscience des étapes accomplies.
+Éviter d’en faire trop ou pas assez, afin de garder votre motivation et d’éviter les blessures.
+A LIRE: Quel programme de sport faire pour se remettre en forme ?
+
+ 
+
+Certaines personnes ont beaucoup de difficultés à établir un planning structuré et progressif lorsqu’elles se mettent au sport.
+
+Si vous faites parti de ces personnes, vous pouvez utiliser mon programme de remise en forme de 16 semaines pour le sportif débutant, adapté à tous les âges.
+
+ 
+
+ 
+Besoin de vous remettre au sport progressivement ?
+ 
+Mon programme Remise en forme a déjà permis à des centaines de personnes de renforcer l’ensemble de leur corps, de soulager leurs douleurs, d’améliorer leur santé et d’être en meilleure forme ! Il regroupe des séances de sport en vidéos, des conseils pour débuter la course à pied, des recettes et bien plus encore… Il n’est jamais trop tard pour vous remettre en forme pour votre santé.
+ 
+Suivre ce cours
+ 
+ 
+
+6) Se mettre au sport chez soi
+Il est tout à fait possible de faire du sport à la maison, et de s’entrainer correctement.
+
+Pour suivre les mêmes recommandations et le bon programme, vous devez pratiquer différents exercices :
+
+Suivre une séance de renforcement musculaire contenant 10 exercices de musculation sans matériel.
+Ajouter des exercices de sport cardio, avec ou sans matériel.
+Réaliser des étirements pour compléter vos séances.
+Pour construire votre séance de sport à la maison, vous pouvez utiliser mon article suivant.
+
+À LIRE: Faire du sport chez soi : comment s’entrainer ?
+
+
+
+ 
+
+7) S’échauffer, s’hydrater et manger sainement
+Lorsque vous faites du sport, votre corps est mis à rude épreuve. Il faut donc en prendre soin pour pouvoir durer sur le long terme. En effet, c’est la régularité qui vous apportera le plus de bénéfices.
+
+Si vous souhaitez éviter les blessures et continuer à faire du sport longtemps, vous pouvez suivre les conseils suivants :
+
+Démarrez chaque séance par un échauffement de 5 à 10 minutes. Pour cela, il suffit juste de commencer progressivement pour faire la transition entre l’intensité de repos, l’intensité légère puis l’intensité modérée.
+Finissez votre séance par un retour au calme. Quelque soit votre niveau d’intensité, prévoyez 5 minutes à la fin de votre séance pour diminuer progressivement votre niveau d’effort afin de retourner à une intensité légère, puis le repos.
+Hydratez-vous après votre séance, avec de l’eau uniquement. Si vous avez beaucoup transpiré et longtemps, vous pouvez choisir une eau minérale ou une eau pétillante légèrement salée. Il est conseillé de boire pendant l’entraînement, si celui-ci dure plus d’une heure.
+Adoptez une alimentation saine, équilibrée et anti-inflammatoire. L’alimentitation du sportif est très importante pour obtenir tous les bienfaits de l’entrainement et bien récupérer. Une mauvaise alimentation conduit au développement des blessures et de la fatigue.
+Dormez 7 à 9 heures chaque nuit, pour les mêmes raisons que précédemment.
+Gérez votre niveau de stress quotidien, car il peut perturber vos progrès, vous épuiser et conduire à la blessure.
+ 
+
+
+
+ 
+
+8) Se mettre au sport et s’y tenir
+La clé pour rester motivé et faire du sport une habitude est de prendre du plaisir à s’entrainer. Cela vous permet de ne pas voir le sport comme une contrainte.
+
+Pour cela, vous pouvez appliquer les conseils suivants :
+
+Choisissez une activité qui vous plait en priorité et qui est pratique pour vous.
+Évitez les séances intensives qui riment avec sentiments négatifs, souffrance et souvent peu de résultats.
+Alternez différentes activités, tout en vous amusant.
+Écoutez de la musique pendant vos séances, ou des podcasts pour apprendre et vous cultiver.
+Faites du sport en nature, pour prendre plus de plaisir et vous sentir bien.
+Rejoignez une salle de sport ou un club pour des cours en groupe.
+Investissez dans un programme d’entrainement fait par un coach sportif et santé.
+Commencez le sport avec un ami ou une amie, pour vous y tenir.
+Suivez vos progrès, en réalisant un cahier d’entrainement hebdomadaire.
+Rapidement, le sport va devenir une habitude pour vous.
+
+Dites-vous également que cela est indispensable pour votre bonne santé, pour maintenir votre poids et le meilleur moyen de prévenir la plupart des maladies chroniques.
+
+ 
+
+9) Quel sport pour maigrir ?
+Les activités cardiovasculaires sont les plus conseillées pour maigrir : marche rapide, vélo, course à pied, natation, randonnée…
+
+Ensuite, il est conseillé de suivre les recommandations suivantes, concernant le bon programme de sport pour maigrir :
+
+Pour perdre un peu de poids, il est conseillé de faire entre 150 et 250 minutes d’activité physique à intensité modérée par semaine.
+Pour une perte de poids plus significative, il est nécessaire de pratiquer 250 minutes ou plus par semaine de sport cardio à intensité modérée.
+Si vous souhaitez maigrir tout en faisant moins de sport, une restriction alimentaire modérée permettra d’augmenter la perte de poids.
+Lorsque vous pratiquez une activité physique à intensité modérée (vous pouvez parler), vous brûlez aussi plus de graisses.
+
+À l’inverse, en vous entrainant tout le temps à intensité élevée, vous n’entrainez jamais votre corps à être endurant et à brûler des graisses, uniquement ou presque du glucose.
+
+En complément, vous pouvez pratiquer de la musculation, afin d’augmenter la masse musculaire et de favoriser la perte des graisses.
+
+PERTE DE POIDS: Le programme idéal pour maigrir
+
+ 
+
+D’autres questions après la lecture de cet article ? N’hésitez pas à m’écrire vos questions et commentaires en bas de la page.
+
+Informations fondées sur les dernières recommandations et données médicales et scientifiques
+
+Sources :
+– Actualisation des repères du PNNS – Révisions des repères relatifs à l’activité physique et à la sédentarité
+– Stratégies d’intervention appropriées en matière d’activité physique pour la perte de poids et la prévention de la reprise de poids pour les adultes
+– Activité physique et prévention de la prise de poids chez l’adulte
+– Lignes directrices pour l’activité physique pendant la grossesse: comparaisons dans le monde.
+– Prescription d’activité physique et sportive, pendant la grossesse et en post-partum.
+– Quelle activité physique, quel sport recommander au patient lombalgique chronique après rééducation ?
+– Effets de l’entraînement combiné de force et d’endurance le matin par rapport au soir sur les performances physiques, l’hypertrophie musculaire et les concentrations sériques d’hormones.
+– Courbes de réponse des phases circadiennes humaines concernant l’exercice physique.
+– Image à la une:Vintage photo created by ijeab
+
+Découvrez mon livre pour vous aider à vivre en bonne santé
+
+De vrais conseils pratiques, efficaces et directement applicables au quotidien pour réussir à changer ses habitudes et à adopter un mode de vie sain, sans frustration
+débuter salle sport
+La rentrée ou le début d’une nouvelle année s’accompagne souvent de bonnes résolutions. Parmi elles figure la volonté de faire du sport et, par la même occasion, de perdre du poids et de sculpter son corps. Parfaitement motivés, nombreux sont ceux à s’inscrire dans une salle de sport, un établissement qui comprend tout le matériel indispensable aux exercices de gainage, de musculation, de cardio, de fitness, etc. Mais quand on est débutant, par quoi commencer ? Comment organiser une séance de sport adaptée ? Voici un guide qui vous accompagnera lors de vos premiers pas à la salle. Il vous aidera aussi à rester motivé et à poursuivre vos efforts sur la durée.
+
+Ciblez vos objectifs et suivez un planning
+Si vous débutez à la salle de sport, soyez dans un premier temps réaliste. Nul besoin de prévoir de longues séances qui se répètent plusieurs fois dans la semaine. Pour conserver votre motivation tout en préservant muscles et articulations, prévoyez d’abord de vous rendre à la salle 2 à 3 fois par semaine, pour des séances de 50 minutes environ. Trouvez votre rythme, en fonction notamment de vos horaires de travail et de votre vie de famille.
+
+Ciblez également des objectifs atteignables : perte de poids, prise de masse musculaire, tonification générale du corps… Et pensez à mesurer vos performances d’un entrainement à l’autre. Dans un carnet, notez le nombre de crunchs réalisés, le temps passé à courir sur un tapis, les kilos soulevés, etc.
+
+Apprenez également à vous servir des différents équipements à disposition dans la salle afin d’éviter les blessures. Vous pouvez demander conseil aux coachs présents sur place. Ces derniers peuvent également vous orienter vers des cours collectifs.
+
+La première séance à la salle de sport
+Misez d’abord sur une séance courte de 50 minutes. Celle-ci comprend d’abord une phase d’échauffement de 10 minutes et s’achève par des étirements, sur 10 minutes également. Pendant les 30 minutes d’entrainement, réalisez 5 à 6 exercices différents, lesquels ciblent tantôt le haut du corps, tantôt le bas du corps (programme type Full Body). Prévoyez des vêtements confortables ainsi qu’une bonne paire de chaussures, des baskets de running par exemple. Dans votre sac de sport, pensez également à emporter une serviette ainsi qu’une bouteille d’eau. Evitez de boire pendant la session afin de ne pas encombrer votre estomac.
+
+Programme sportif à la salle : quelques exemples pour les débutants
+Si vous commencez la musculation, voici un programme que vous pouvez suivre lors de vos premières séances en salle :
+
+Echauffement : 4-5 minutes de rameur, ce qui permettra de travailler tous les groupes musculaires, suivies par 15-20 pompes.
+Développé-couché : 4 séries de 12 répétitions
+Tractions : 4 séries de 12 répétitions
+Squats : 4 séries de 12 répétitions
+Presse à cuisse (40-50 kg) : 3 séries de 15 répétitions
+Extensions lombaires : 3 séries de 15 répétitions
+Crunchs au sol : 4 séries de 10 répétitions
+Si vous souhaitez suivre un entrainement cardio, voici un programme qui convient également aux débutants. Sur 1 heure, passez :
+
+20 minutes sur vélo : 10 minutes d’échauffement avant d’augmenter l’intensité progressivement sur les 10 minutes restantes.
+20 minutes sur rameur : 10 minutes moyennement intenses avant d’augmenter progressivement le niveau de sollicitation.
+20 minutes sur tapis de course : 10 minutes à forte intensité avant de réduire progressivement et de pouvoir récupérer activement.
+Et pour combiner cardio-training et musculation, vous pouvez enchainer :
+
+10 minutes d’elliptique
+Planche (gainage) : 4 séries de 30 secondes sur les 2 coudes et 4 séries de 15 secondes en position latérale
+Crunchs : 4 séries de 10 répétitions
+10 minutes de vélo
+Au Paris Country Club, vous profitez de nombreuses machines dédiées à la musculation et au cardio-training. Des coachs sont également à votre service pour vous accompagner dans vos premiers pas à la salle de sport. Contactez-nous pour en savoir plus.
+Si vous ne savez pas quoi faire dans la salle de sport ou si vous n'y avez jamais mis les pieds auparavant, cela peut sembler un endroit assez effrayant. A quoi servent toutes les machines ? Comment puis-je les utiliser ? Est-ce que tout le monde me regarde ?
+
+C'est pourquoi nous avons élaboré ce guide pour les débutants, qui couvre tout, de ce qu'il faut mettre dans son sac de sport, jusqu'à votre propre entraînement de fitness ou musculation.
+
+La première visite à la salle de sport
+La salle de sport est conçue pour donner à chacun les outils dont il a besoin pour atteindre ses objectifs. Qu'il s'agisse de se tonifier ou de développer ses muscles et sa force, rappelez-vous que tout le monde est le bienvenu pour s'entraîner dans la salle.
+
+Avant de vous y mettre, il se peut qu'on vous demande plus d’informations sur votre condition médicale. Cela aide les entraîneurs personnels à fournir une routine qui vous convient et vous évite de prendre des risques. Faire du sport, ce n’est pas anodin !
+
+
+Comment choisir sa salle de sport ?
+De nos jours, trouver une salle de sport est assez facile ; il y en partout : plus de 4 000 salles en France ! Mais paradoxalement, il est difficile de choisir parmi les nombreuses salles de sport qui ouvrent chaque année. Comment ne pas se tromper ? Voici quelques conseils avisés à la suite.
+
+Libre à vous de découvrir les clubs de sport Fitness Park, Basic-Fit, Liberty Gym, Moving, Neoness, Keepcool, GigaFit, Gigagym, L'Orange Bleue ou encore le club du coin près de chez vous.
+
+
+Avant tout, choisissez une salle de sport près de chez vous. Car passer du temps dans les transports pour vous y rendre et dépenser du carburant n’est pas judicieux et augmente le risque d’abandon. Sélectionnez une salle qui se situe à 10-15 minutes de chez vous.
+
+Votre salle doit être bien équipée, avec un matériel de qualité. Pour cela, vérifiez que le matériel est bien entretenu, en bon état, et qu’il y a assez d’appareils. Pour les horaires, idéalement une salle ouverte 365 jours par an, avec un créneau horaire convenable. Ouverte le samedi et dimanche.
+
+
+Vérifier aussi le nombre d'adhérents, que la salle ne soit pas surpeuplée aux heures de pointe, pour ne pas devoir faire la queue ou devoir modifier son programme. Vérifiez le taux de fréquentation et la disponibilité des machines et des casiers. Profitez-en pour inspecter l'hygiène des douches. Optez pour une salle climatisée pour ne pas souffrir en été. Bien sûr, une séance d'essai doit être possible, sinon tournez les talons !
+
+Après une brève visite des installations du gymnase, une bonne séance d'essai est la clé pour démarrer du bon pied.
+
+Comment préparer la séance d'essai ?
+Déjà, quel est le meilleur moment pour aller au gym ? Le matin est souvent considéré comme le meilleur moment pour faire de l'exercice, car il peut réduire le niveau de stress et vous donner de l'énergie pour le reste de la journée. Cependant, tout dépend de votre rythme. Si vous vous considérez comme une personne du matin, il devrait être facile de vous motiver pendant une heure au gymnase avant le travail. Mais, si vous ne pouvez rien faire avant votre café de 9 heures, ne vous en faites pas, allez plutôt à la salle de sport en rentrant chez vous.
+
+Il n'y a vraiment pas de « meilleur moment » pour faire de l'exercice, tout dépend de votre corps, alors écoutez-le et allez à la salle de sport quand cela vous convient le mieux.
+
+
+L'autre facteur à prendre en compte lors de la planification de votre séance est le moment où la salle de sport est susceptible d'être occupée. Si vous cherchez de l'espace lorsque vous vous entraînez, mieux vaut éviter les heures de pointe. C'est généralement juste avant ou après la journée de travail, bien que le personnel sur place puisse vous conseiller davantage.
+
+Quoi porter et emporter avec vous ?
+Dans votre sac de sport, prenez un équipement d'entraînement adapté. Une tenue de sport, Des baskets robustes, une serviette pour protéger les machines utilisées, une bouteille d'eau, une serviette et du gel douche/shampoing pour une douche post-entraînement, une collation post-entraînement si vous avez faim (ou en cas d'hypoglycémie).
+
+Bien s'échauffer !
+Si vous vous sentez gêné lors de votre première visite au gymnase, votre instinct initial pourrait être de passer directement au tapis roulant ou à l'appareil de musculation et de «prouver votre valeur», mais c'est une erreur de débutant. L'une des parties les plus importantes d'un bon entraînement est de bien s'échauffer.
+
+Les échauffements sont cruciaux car ils préparent votre corps aux exigences de l'exercice, en relâchant les muscles et en réduisant le risque de blessure. Cela signifie également que vous êtes moins susceptible de blesser un muscle pendant votre entraînement et minimise les risques d'accumulation d'acide lactique, ce qui peut entraîner des crampes.
+
+Votre première séance au gym
+Une fois que vous êtes échauffé et parfaitement préparé, il est temps de vous entraîner. Mais où allez-vous commencer ? A partir de là, c'est le coach qui va vous guider.
+
+Votre initiation devrait inclure un bref « comment faire » pour chaque machine. S'il y en a un qui a été omis et que vous voulez l'utiliser, n'essayez pas de le découvrir par vous-même : demandez à un membre du personnel de vous montrer comment l'utiliser correctement. L'utilisation incorrecte d'une machine peut endommager l'équipement ou, dans des circonstances extrêmes, entraîner des blessures.
+
+
+Voici une liste rapide de certaines machines que vous pouvez vous attendre à trouver dans la plupart des salles de sport :
+
+1 - APPAREILS CARDIO
+Perdre du poids, renforcer votre cœur et vos poumons.
+
+Tapis de course - Une machine de course qui peut fournir un excellent entraînement pour améliorer votre force cardiovasculaire. Vous pouvez ajuster l'inclinaison et le rythme en fonction du type d'entraînement que vous recherchez.
+Vélo elliptique - Un équipement à double action qui travaille à la fois le haut et le bas du corps en tandem. Fournit un moyen à faible impact d'exercer une bonne partie du corps.
+Rameur - Simule les mouvements du corps d'un rameur, en remplaçant l'eau et les rames par une poignée et une chaîne. Un entraînement fantastique pour tout le corps qui met l'accent sur votre cœur et fait fondre la graisse.
+Vélo stationnaire - Une machine cardio assis qui fait travailler tous les muscles de vos jambes. Vous pouvez augmenter la résistance pour renforcer et tonifier vos jambes.
+Stepper - Comme un tapis roulant, seulement avec des marches ! Fournit un entraînement qui ménage vos articulations tout en faisant travailler tous les muscles de vos jambes.
+2 - ZONE DE RENFORCEMENT MUSCULAIRE ET MUSCULATION
+Pour développer la force et la masse musculaire, ou encore tonifier le corps. C'est la zone où se trouvent les machines et les bancs de musculation. Mais aussi les poids libres, barres et haltères.
+
+Salle de musculation
+3 - ESPACE ENTRAÎNEMENT FONCTIONNEL ET CONDITION PHYSIQUE
+Conditionnement physique, étirements, Crossfit, freestyle workout. Vous y trouverez diverses installations et accessoires.
+
+KETTLEBELLS - Les kettlebells, poids en forme de boulet de canon avec poignées. Idéal pour combiner les entraînements cardio avec la musculation pour éliminer les graisses tout en tonifiant les bras et le tronc.
+MEDICINE BALLS - Un ballon lesté généralement de la même taille qu'un ballon de basket. Idéal pour les exercices de musculation et de rééducation.
+TRX (système de suspension flexible TRX) - Un système semblable à une corde qui vous permet d'utiliser votre propre poids corporel pour tonifier et développer la force de base.
+LUGE LESTÉE - Une pièce d'équipement sur laquelle vous pouvez ajouter des poids et pousser ou tirer pour développer votre force. Idéal pour le conditionnement sportif.
+Faut-il utiliser des poids libres ?
+Les personnes qui découvrent les poids libres peuvent parfois faire des erreurs qui entraînent des blessures. Errer dans la zone de poids libre d'une salle de sport et saisir l'haltère de votre choix peut être risqué si on n'est pas formé. La bonne nouvelle est que les poids libres ne sont pas dangereux si vous les utilisez correctement.
+
+La première fois que vous prenez des poids libres, commencez par le bas et progressez vers le haut. Si vous vous entraînez avec une barre, essayez de faire quelques répétitions en utilisant uniquement la barre. Vous serez surpris par leur poids.
+
+Il peut être un peu intimidant d'utiliser des poids libres si vous n'êtes pas familier, alors n'ayez pas peur de demander à un membre du personnel des conseils sur votre technique.
+
+Rack haltères de musculation
+Attention, il y a quelques règles que vous devez suivre dans le domaine des poids libres :
+
+NE FAITES PAS TOMBER DE POIDS - La chute de poids constitue un danger pour la sécurité. Non seulement cela, mais cela endommage également le kit et dérange les autres membres. Au lieu de cela, vous devriez abaisser lentement les poids vers le sol lorsque vous terminez vos séries.
+RANGER LES POIDS - Rien n'est plus frustrant que d'être à mi-chemin de votre séance avant de trouver la prochaine série d'haltères manquante parce que quelqu'un les a égarés. Dès que vous avez terminé avec vos poids, remettez-les au bon endroit sur le support.
+DEMANDEZ de l'aide - Certains exercices (comme le développé couché) sont dangereux sans pareur. Le personnel est toujours heureux de vous aider, alors demandez-lui s'il peut vous assurer ou essayez plutôt d'utiliser une des machines.
+Ne faut-il pas plutôt commencer avec l'entraînement au poids du corps ?
+Pourquoi pas. L'entraînement au poids du corps est une forme d'entraînement qui ne vous oblige pas à utiliser des poids pour développer votre force. Et développer la force - pas seulement les muscles - est la clé.
+
+L'entraînement au poids du corps est un moyen plus sûr de préparer votre corps à l'entraînement avec des poids que d'y aller directement. Des choses comme les squats et les pompes sont des moyens simples d'habituer vos muscles à travailler contre la résistance. Demandez au personnel de votre club de vous recommander un endroit où vous pouvez vous entraîner. Si vous n'avez jamais utilisé de poids libres auparavant, c'est une bonne idée que de faire du poids du corps pour vos premières séances.
+
+Quel entraînement de musculation suivre pour les débutants ?
+Durant les premières semaines d'initiation, le coach vous a probablement fait faire le tour des machines et vous faites sûrement un entraînement de type circuit training, en enchaînant les machines et les exercices. Maintenant que vous connaissez bien les équipements et la plupart des exercices, il est temps de commencer un entraînement sérieux avec un vrai programme.
+
+Bien qu'il n'y ait pas d'entraînement type qui convient à tous, nous vous conseillons de suivre le full-body débutant du site qui consiste à travailler tout le corps à chaque séance. Parfaitement adapté aux débutants, il a fait ses preuves et a prouvé son efficacité.
+
+Et les cours collectifs ?
+Aller régulièrement à la salle de sport est une étape fantastique vers la réalisation de vos objectifs de mise en forme. Si vous voulez vraiment récolter les résultats, vous devriez vous inscrire à un cours collectif avec un coach sportif.
+
+Ces séances sont dirigées par un entraîneur professionnel qui vous guidera à travers un ensemble fixe d'exercices. Ils se font en groupe, c'est donc l'occasion idéale de nouer des amitiés et de vous pousser un peu plus loin que vous ne le feriez lors d'un entraînement en solo.
+
+Il y a des centaines de cours différents à choisir, allant du yoga et de l'aquagym aux cours de boxe et même de danse. Chaque classe varie en intensité et en durée. Si vous débutez, nous vous recommandons d'opter pour un cours de faible intensité ou de courte durée afin de ne pas trop vous forcer.
+
+Un coach sportif rien que pour vous ? Pourquoi pas !
+Les cours sont parfaits pour vous donner de nouvelles idées d'entraînement, mais ils ne peuvent pas toujours vous aider à avancer avec des objectifs sur mesure. Pour cela, vous devrez peut-être travailler avec un entraîneur personnel.
+
+Les entraîneurs personnels sont des professionnels du fitness qui travaillent avec les clients pour créer des entraînements personnalisés et fournir des conseils pendant l'exercice.
+
+Les coachs sportifs ne sont généralement pas couverts par les frais d'adhésion standard. Cependant, de nombreux membres de la salle de sport trouvent que cela vaut le coût de quelques séances seulement lorsque vous débutez, car cela vous met sur la bonne voie, ce qui signifie que vos entraînements seront plus efficaces à l'avenir.
+
+Le personnel du gymnase organisera généralement une brève rencontre avec votre entraîneur personnel afin que vous puissiez connaître son style d'entraînement et qu'il puisse connaître votre objectif.
+
+Devenez un pro du gym !
+Alors voilà : la salle de sport n'est plus un mystère.
+
+Avec le temps, tout cela deviendra une seconde nature pour vous. Au fur et à mesure que vous gagnerez en confiance, vous commencerez à atteindre les objectifs que vous vous êtes fixés et à établir une routine qui vous gardera en forme, heureux et plein d'énergie.
+
+Quel que soit votre niveau de condition physique, rappelez-vous toujours que si vous n'êtes pas sûr de quoi que ce soit pendant votre entraînement, les membres du personnel sont toujours heureux de vous donner un coup de main.
+Programmes et conseils pour débuter la musculation
+8 min
+Avant de commencer votre pratique de la musculation, le Professionnel Serge Dessel vous fait part de ses conseils pour éviter les pièges que de nombreux débutants commettent. Nous vous proposerons ensuite les programmes d’entraînement pour débuter efficacement.
+
+Conseils de Serge Dessel, ancien bodybuilder IFBB
+Combien de gens se sont inscrits dans des clubs de forme et ont été déçus par leur manque de résultats ? Premièrement, les stagiaires ne sont pas des “PROS”. La mauvaise habitude des salles de forme consiste à faire bosser des stagiaires plutôt que de vrais pros, pour des raisons de coût. Le client en est lésé puisqu’il paie une prestation qu’il n’aura pas.
+
+Deuxièmement, les “PROS” ne sont pas tous compétents… Plusieurs diplômes sanctionnent des compétences différentes, choisissez un professionnel spécialiste en musculation qui saura satisfaire vos besoins et pas un spécialiste en danse chorégraphiée qui n’a aucune compétence en musculation ou préparation physique.
+
+Autre point : les athlètes ne sont pas forcément de bons pédagogues. Ne sautez pas sur le premier culturiste de la salle pour lui demander conseil. Il est peut-être passionné par ce qu’il fait et met tout son cœur à l’entraînement, mais n’a peut-être rien à vous apporter en terme de conseils judicieux pour évoluer. Souvent ils font beaucoup d’erreurs eux-mêmes et refusent de se remettre en question. Si en observant vous vous apercevez qu’il fait toujours à peu près la même routine d’entraînement, changez de chemin, il n’a rien à vous apprendre.
+
+Avant De Courir, Il Faut Apprendre À Marcher
+Une fois encore la logique est implacable. Si vous voulez progresser et évoluer sûr du long terme, vous devez maîtriser les mouvements à la perfection. Pour maîtriser le mouvement, vous devez faire appel à des notions de coordination neuromusculaire (apprentissage d’un geste). Une fois l’apprentissage commencé et avant de tomber dans le piège de l’accoutumance du geste techniquement imparfait, il faut impérativement donner à votre corps la possibilité de passer un cap supérieur. Vous devez apprendre à votre corps à ressentir ce que vous faites. Le positionnement dans l’espace est un outil qui nous est fourni à la naissance, mais il n’est pas assez souvent utilisé ou presque jamais pour les sédentaires.
+
+Localisez le travail des groupes musculaires
+Isolez le muscle sur lequel vous voulez avoir le plus d’impact
+Ne travaillez pas systématiquement avec un miroir
+Ne prenez pas le train en route. Au regret de vous décevoir, vos premières séances ne comporteront aucun mouvement spécifique pour les bras, ischios jambiers et les mollets. En essayant de brûler les étapes, vous allez perdre du temps et vous retrouver chez le médecin ou le kinésithérapeute pour soigner les tendinites que vous vous êtes volontairement infligées. Soyez patient : Rome ne s’est pas fait en 1 jour.
+
+
+Les mouvements de base d’abord
+
+Une bonne séance pour un débutant doit contenir presque exclusivement des mouvements poly-articulaires, appelés mouvements complets.
+
+Ne vous entraînez pas tous les jours
+
+2 à 3 séances hebdomadaires sont largement suffisantes et vous permettront de récupérer pleinement entre vos séances. Attendez 48 heures minimum entre 2 séances.
+
+Le plus n’est pas synonyme de mieux.
+
+Éliminez les fausses croyances qui disent plus on en fait mieux c’est… Ce raisonnement est contre-productif, vous allez stagner plus rapidement par surentraînement ou manque de récupération. Une bonne séance de musculation ne doit jamais dépasser une heure. Si vous pouvez le faire en moins de temps c’est encore mieux. Fuyez les programmes qui n’en finissent pas et ceux qui vous les préconisent. Ce sont de mauvais coachs.
+
+Commencer par apprendre
+
+Le premier pas dans une salle de musculation est le plus difficile à faire. Votre premier programme est lui au contraire le plus facile, et tant mieux. Le but est de vous encourager pas de vous dégoûter. Au programme : abdominaux et lombaires, pectoraux et dorsaux, quadriceps et épaules. Voilà, votre première séance de musculation est faite.
+
+Combien de répétition ?
+
+Pour les premières séances et comme je vous l’ai déjà annoncé plus haut, il faut apprendre, apprendre, apprendre…Pour apprendre un bon geste technique, il faut faire un grand nombre de répétitions. Commencez par 15 répétitions en prenant bien soin de bien respirer pendant l’exécution de l’exercice.
+
+Combien de séries ?
+
+Vous débutez, donc il faut être prudent et faire les choses progressivement. Trois séries de 15 répétitions sont une bonne séance pour commencer. Reportez-vous au tableau suivant pour avoir une indication sur la façon idéale de procéder.
+
+programme-musculation-debutant-base
+Le But Premier : Ne Pas Nuire
+Vous êtes débutant en musculation. Vous n’avez aucune expérience dans le maniement des charges additionnelles, mais vous débordez d’énergie et vous voulez absolument aller vite, progresser, prendre de la force, prendre du volume… Comme je vous l’ai dit plus haut, nous allons commencer par apprendre. Le geste technique parfait va vous permettre de progresser plus vite et plus longtemps. La charge de travail doit être suffisante pour vous permettre une bonne exécution de l’exercice en vous éloignant au maximum de tout risque de blessure. Quelle charge utiliser ? Soulever “lourd” ne sera pas votre objectif sur les premières séances. Il vous faut juste de quoi solliciter votre organisme afin qu’il puisse “surcompenser “et ainsi fabriquer de nouveaux tissus.
+
+programme-musculation-debutant-premiere-seance
+La Récup Entre Les Séries
+Laissez libre court à votre envie, sans toutefois dépasser les 3 minutes entre chaque série et 5 minutes entre les différents exercices de musculation. Voilà, vous êtes partis pour un total de 10 séances d’entraînement en musculation dans le but de développer votre volume musculaire. Suite à cet apprentissage, vous devez faire quelques tests de forces et estimer votre condition physique. Ce n’est que lorsque vous aurez ces résultats que vous pourrez réellement commencer votre premier programme d’entraînement.
+
+Programme de musculation pour débuter
+Chaque semaine, pendant six semaines, le programme deviendra de plus en plus ardu. Après votre première semaine de préparation de tout le corps, vous suivrez une répartition des séances qui évoluera d’une semaine à l’autre : ce mode de progression va augmenter le nombre d’exercices de musculation et de séries que vous effectuerez afin de décupler l’intensité tout en diminuant la fréquence d’entrainement des groupes musculaires. Ce programme met l’accent, à la fois, sur la force et sur la masse. Si vous constatez que vous ne parvenez pas à réaliser le nombre de séries ou si vous être capable de faire plus de répétitions que ce que nous suggérons, modifiez immédiatement les charges qui vous avez sélectionnées.
+
+Bien que la nutrition sportive ne soit pas abordée ici, il vous faudra adopter de saines habitudes alimentaires, consommer des quantités adéquates de glucides, protéines, lipides, vitamines et minéraux et aussi beaucoup d’eau !
+
+Entraînement généralisé (lundi/mercredi/vendredi ou mardi/jeudi/samedi)
+
+Vous travaillerez tous les grands groupes musculaires au cours de chacune des trois séances de cette première semaine. Les temps de repos devront rester courts car vous aurez du pain sur la planche. Commencez par les groupes musculaires du haut du corps (pectoraux, dos, épaules), puis passez aux cuisses pour que vos bras se reposent. Passez ensuite aux biceps et triceps et terminez le programme par les mollets et les abdos. Bien que les abdominaux assistent constamment d’autres groupes musculaires au cours de l’effort, vous vous concentrerez particulièrement sur les exercices d’abdos tout au long de ce programme.
+
+Nombre de séries pour chaque exercice : 3
+
+Temps de repos entre chaque série : 1m30s
+
+Semaine 1
+programme-musculation-debutant-semaine-1
+Semaine 2
+Répartition sur deux jours (lundi/mardi/jeudi/vendredi)
+
+Au cours de la deuxième semaine, vous augmenterez l’intensité en effectuant davantage d’exercices pour chaque groupe musculaire. Pour cela, divisez le corps en deux et travaillez chaque moitié deux fois par semaine. Ce protocole laissera assez de temps à chaque groupe musculaire pour récupérer correctement. Faites une pause en milieu de semaine et reposez-vous tout le weekend afin de récupérer avant une troisième semaine éprouvante.
+
+Nombre de séries pour chaque exercice : 3
+
+Temps de repos entre chaque série : 1m30s
+
+Lundi / Jeudi
+programme-musculation-debutant-semaine-2-lundi-jeudi
+Mardi / Vendredi
+programme-musculation-debutant-semaine-2-mardi-vendredi
+Semaine 3
+Répartitions sur trois jours (lundi à samedi)
+
+Au cours de la semaine 3, vous ferez six entrainements qui permettront de travailler chaque groupe musculaire deux fois. Il y aura trois séances différentes : tout d’abord, les muscles qui poussent; ensuite, les muscles qui tirent; enfin les jambes avec leur séance à part. Certains groupes musculaires auront droit à des exercices supplémentaires et les schémas de séries et de répétitions ont été modifiés afin de prendre en compte cette augmentation de la durée de la séance et du volume d’entrainement.
+
+Lundi / Jeudi
+programme-musculation-debutant-semaine-3-lundi-jeudi
+Mardi / Vendredi
+programme-musculation-debutant-semaine-3-mardi-vendredi
+Mercredi / Samedi
+programme-musculation-debutant-semaine-3-mercredi-samedi
+Semaine 4
+Répartition sur trois jours (lundi/mercredi/vendredi)
+
+Avec la semaine 4, le programme change d’orientation, car vous n’allez travailler chaque groupe musculaire qu’une seule fois par semaine. Si vous vous êtres entrainés assidument au cours des semaines précédentes, vous devriez être capable de manipuler, gérer et équilibrer les charges mieux que jamais. Ici aussi, la plupart des mouvements poussés et tirés sont regroupés sur leurs propres séances et séparés par trois jours de repos (deux jours de repos complet et une séance réservée aux jambes).
+
+Temps de repos entre les séries : 1m30s
+
+Lundi
+programme-musculation-debutant-semaine-4-lundi
+Mercredi
+programme-musculation-debutant-semaine-4-mercredi
+Vendredi
+programme-musculation-debutant-semaine-4-vendredi
+Semaine 5
+Répartitions sur quatre jours (lundi/mardi/jeudi/vendredi)
+
+Beaucoup de pratiquants de la musculation confirmés privilégient cette répartition qui constitue un mode d’entrainement à haut régime, comprenant plusieurs exercices pour chaque groupe musculaire et le plus grand nombre de séries que vous n’aurez jamais réalisées. Elle comporte aussi des fourchettes de répétitions variées, ce qui optimise la participation de différents types de muscles.
+
+Lundi
+programme-musculation-debutant-semaine-5-lundi
+Mardi
+programme-musculation-debutant-semaine-5-mardi
+Jeudi
+programme-musculation-debutant-semaine-5-jeudi
+Vendredi
+programme-musculation-debutant-semaine-5-vendredi
+Semaine 6
+Répartition sur six jours (lundi au samedi)
+
+Travaillez chaque groupe musculaire une fois par semaine en pratiquant plusieurs exercices avec des charges lourdes et en appliquant des techniques d’intensification comme les trisets et les supersets. Chaque groupe musculaire a sa propre séance. Par exemple, vous travaillerez les pectoraux à part, sans passer ensuite aux épaules ou aux triceps car chacun de ces deux groupes musculaires a une séance qui lui est consacrée. Cela dit, étant donné que chaque groupe musculaire ne sera pas sollicité de nouveau pendant six jours, il est important de le travailler avec une intensité maximale à chaque série et à chaque répétition de manière à optimiser la réponse musculaire. Les temps de repos seront augmentés en fonction des divers degrés d’intensité.
+
+Lundi
+programme-musculation-debutant-semaine-6-lundi
+Mardi
+programme-musculation-debutant-semaine-6-mardi
+Mercredi
+programme-musculation-debutant-semaine-6-mercredi
+Jeudi
+programme-musculation-debutant-semaine-6-jeudi
+Vendredi
+programme-musculation-debutant-semaine-6-vendredi
+Samedi
+programme-musculation-debutant-semaine-6-samedi
+jimmy-thai
+Rédigé par Jimmy THAI
+
+Fondateur de Espace-Musculation.com
+Commencer à la salle de sport : notre guide pour débutant
+Par Jérôme Michel  29 mars 2022
+ 0
+Haltères d'une salle de fitness
+Photo de Danielle Cerullo via Unsplash
+
+Share on Facebook
+Share on Twitter
+Whatsapp
+
+PUBLICITÉ
+S’inscrire à la salle de sport quand on est un débutant peut être effrayant au premier abord : que faire, quel programme suivre, quand y aller, et quid du regard des autres ? Voici notre guide pour commencer à la salle dans les meilleures conditions.
+
+Optimiser ses débuts à la salle
+1. Faire un check-up santé
+Avant toute chose, il est judicieux de prendre rendez-vous avec son médecin afin de vérifier qu’aucune contre-indication ne vous empêche de faire du sport, ou de pratiquer certains exercices en particulier. Certaines salles exigent d’obtenir un certificat médical afin de valider l’inscription. Cela évite de réveiller d’anciennes blessures ou d’en provoquer de nouvelles que l’on pourrait facilement éviter. Il faut donc prendre le temps de passer cette étape check-up santé pour s’entraîner en toute sérénité. Ce rendez-vous peut être pris avec un médecin du sport tout comme avec son médecin généraliste habituel.
+
+2. Choisir sa tenue de sport
+Si les réseaux sociaux veulent nous faire croire qu’il est primordial d’être stylé en faisant du sport, la vérité est pourtant qu’il vaut mieux être à l’aise. Aller à la salle, ce n’est pas faire un défilé. Il faut donc prendre soin de choisir des vêtements dans lesquels on se sent bien, avec une liberté de mouvement optimale, et si possible qui laissent le corps respirer et ne retiennent pas la transpiration. On peut choisir une tenue « courte » (short + débardeur) et une tenue plus « longue » (legging, survêtement et haut à manches longues) à adapter en fonction des saisons et de son entraînement.
+
+
+PUBLICITÉ
+3. Choisir le club de sport le plus adéquat
+Avant de vous jeter sur la première salle de sport venue, prenez le temps d’analyser plusieurs critères pour faire votre choix :
+
+La distance : il faut que votre club soit proche de chez vous ou de votre lieu de travail, cela augmentera votre motivation dans la mesure où vous n’aurez pas à faire trop de trajet pour aller vous entraîner.
+Abonnement et résiliation : essayez de repérer les salles qui proposent des abonnements de courte durée, voire sans engagement, ainsi que les plus petits délais de préavis avant résiliation possible. Cela vous évitera de payer pour rien si vous devez interrompre votre abonnement.
+Equipements proposés : il est intéressant d’aller visite la salle de sport qui vous intéresse, quitte à en visiter plusieurs, afin de comparer les différentes machines et les espaces proposés et voir s’ils sont en adéquation avec votre objectif ; plutôt musculation avec beaucoup de machines au poids, boxe avec la présence de sacs de frappe et d’un ring, plutôt cardio avec des espaces de biking, ou yoga avec de vastes salles équipées de tapis et d’accessoires ?
+Cours collectifs : il peut être judicieux d’intégrer à sa routine sportive des cours collectifs, leur diversité étant désormais très large. Ainsi, certaines salles proposent d’une dizaine à plus d’une soixante de cours collectif par semaine à des horaires variés. C’est également une bonne méthode pour commencer à la salle et rencontrer du monde dans une ambiance chaleureuse et motivante.
+Cours digitaux : c’est une option proposée par pas mal de salles également, et qui consiste à suivre un coach sur écran après avoir sélectionné un programme qui vous plaît. Regardez si la salle près de chez vous en est équipée !
+Espace cardio d'une salle de sport dans le fond (tapis de course, vélos) mais aussi un banc de musculation au mileu
+Photo de Risen Wang via Unsplash
+Faire abstraction des gens autour de soi
+Au moment de commencer à la salle de sport, beaucoup de gens ressentent une appréhension quant à l’environnement et au regard des gens autour. Si on peut de prime abord avoir l’impression que tous les regards seront posés sur nous, il faut bien se mettre en tête que ce ne sera pas du tout le cas : la plupart des gens autour sont concentrés sur leur propre entraînement et ne font pas attention aux autres adhérents ; la salle de sport est un endroit de partage et d’effort physique, où la critique et le jugement n’ont pas leur place, il ne faut donc pas avoir peur de se lancer. De plus, il suffit de garder en tête que tout le monde a été débutant un jour, et s’est retrouvé dans la même situation, il y a un début à tout ! Au lieu de vous dire que les autres vont se moquer de vous si vous ne faites pas bien les mouvements, dites-vous plutôt qu’ils pourront vous aider à rectifier votre position ! Les coachs présents sur place sont également là pour vous guider et conseiller.
+
+Quel programme d’entraînement suivre ?
+La première question qui nous vient en tête lorsqu’on s’inscrit en club, est que faire à la salle de sport ? Il faut veiller à ne pas se mettre la pression ; tout le monde n’est pas là pour devenir culturiste ou champion du monde de bobybuilding. De même, rien de vous oblige à définir des circuits précis à respecter à la lettre à chaque séance.
+
+Vous pouvez commencer dans un premier temps par tester les machines et comprendre leur fonctionnement, voir quelles parties du corps elles font travailler et si vous prenez du plaisir à les utiliser.
+
+En fonction de la durée d’entraînement que vous vous fixez à chaque séance (et bien qu’il soit également tout à fait possible de varier les durées d’entraînement à chaque fois), il peut être judicieux de combiner plusieurs disciplines : un peu de cardio pour s’échauffer, de la musculation au poids du corps pour rentrer dans le dur de la séance (c’est-à-dire sur tapis sans matériel), avec des machines par la suite, sans oublier les indispensables étirements et temps de repos entre les exercices.
+
+
+PUBLICITÉ
+Ainsi, il est recommandé de faire des séances de 45 minutes minimum à 2h maximum. Inutile de venir pendant 4h tous les jours, votre corps a besoin de se reposer pour mieux récupérer et pour que vos entraînements soient réellement efficaces !
+
+Il est recommandé de s’entraîner environ 3 fois par semaine, avec un jour de pause à chaque fois. Vous pouvez aussi choisir de varier les entraînements à chaque fois, avec par exemple une journée cardio, une journée muscu, une journée cours collectif. Si votre objectif est de vous dessiner et prendre du muscle, on visera plutôt les machines, avec une journée haut du corps (bras et épaules), une journée bas du corps (cuisses, mollets et fessiers), et une dernière journée plus axée sur le tronc (abdos et dorsaux).
+
+Si malgré ces conseils vous ne savez toujours pas par quoi commencer à la salle, n’hésitez pas à faire appel au coach sur place. Dans la plupart des cas, ils proposent à leurs adhérents des programmes personnalisés en fonction des objectifs de chacun.
+
+Être constant dans ses entraînements
+Le plus important dans le sport, c’est la régularité. Pas de panique si vous ne pouvez pas vous rendre à votre entraînement du mercredi, il suffit de le décaler ! Le meilleur moyen de progresser c’est d’être constant et assidu ; non, vous ne verrez pas de transformation de votre corps dès les trois premières séances, mais plutôt au bout d’un mois, ce qui n’est pas si long si on y réfléchit.
+
+La régularité sera votre meilleur alliée, et vous apprendrez à prendre du plaisir en faisant du sport en salle, notamment par le bien-être ressenti à chaque fin de séance, qui encourage à y retourner la fois d’après.
+
+Il peut ainsi être judicieux de se fixer un objectif raisonnable : par exemple, -5kgs en trois mois, ou des muscles dessinés en 2 mois, le tout associé à une bonne alimentation. Evitez les mauvaises excuses pour arrêter le sport ou sauter trop d’entraînement, préparez vos affaires à l’avance et ayez-les toujours à disposition dans votre voiture ou près de votre porte d’entrée.
+
+Prendre son temps et évoluer petit à petit
+Autre erreur que l’on peut souvent voir à la salle, c’est le fait de vouloir soulever trop lourd trop rapidement. Dites-vous bien que lorsque vous définissez un poids de charge sur une machine, vous devez ensuite être capable de terminer une série de 10 à 12 répétitions. Si ce n’est pas le cas, c’est probablement que vous avez mis trop de poids. L’astuce c’est de repérer la charge la plus lourde que vous puissiez soulever, et de n’en garder que 70%. Ainsi, si vous ne pouvez faire qu’une seule répétition de presse à cuisse à 60 kilos, vous devriez pouvoir en faire une dizaine à un peu plus d’une quarantaine de kilos, etc.
+
+En fonction de votre objectif, qu’il soit de vous affiner ou développer vos muscles, il sera judicieux soit de faire de nombreuses répétitions avec des petits poids, soit peu de répétitions avec des gros poids.
+
+Prenez le temps de faire plusieurs séances avec les mêmes poids, n’essayez pas d’augmenter trop vite ; le niveau de difficulté pourrait vous décourager ou même entraîner des blessures. Effectuez au moins une semaine complète avec les mêmes poids avant de passer au niveau supérieur.
+
+Trouver son rythme seul ou accompagné
+S’il peut être tentant de s’inscrire avec un ami pour une meilleure motivation, cela peut aussi être un piège qui nuit à votre assiduité. En effet, dès que votre ami décommandera sa séance, aurez-vous la motivation d’y aller tout de même ? Et s’il abandonne et résilie son abonnement, en ferez-vous de même ? Il est donc bien de se motiver et commencer ses séances seul dans un premier temps afin de prendre le rythme, puis pourquoi pas inviter un ami à se joindre à vous ? Il suffira d’adapter vos séances en fonction des moments où vous serez seul ou accompagné, ou vous aurez le choix de continuer à faire votre entraînement chacun de votre côté.
+
+N’ayez plus peur de vous lancer, la salle n’attend désormais plus que vous !
+
+Foire aux questions
+Quels sont les horaires d’ouverture d’une salle de sport ?
+Pensez à les consulter au cas par cas, puisqu’elles varient en fonction des salles. Certaines sont ouvertes 7j/7 24h/24, d’autres (plus communément) de 6h à 23h, et d’autres encore ont des horaires restreints le week-end.
+
+A partir de quel âge peut-on s’inscrire en salle de sport ?
+Il est possible de s’inscrire dès l’âge de 16 ans en club de sport. Des dérogations peuvent exister pour les enfants plus jeunes dans le cadre de parcours professionnels ou semi-professionnels à condition de bénéficier d’un suivi régulier par un médecin du sport. Il n’y a ensuite pas de limite d’âge, les clubs étant accessibles aux personnes les plus âgées.
+
+Puis-je faire une séance d’essai avant de débuter salle ?
+La plupart des clubs de sport proposent une séance d’essai gratuite, ou un cours collectif gratuit afin de vous assurer que vous avez réellement envie de vous lancer. Renseignez-vous directement auprès des coachs de la salle de sport !
+
+Pour combien de temps est-ce que je m’engage ?
+C’est un point à regarder absolument. Certaines salles proposent des abonnements sans engagement, qui sont cependant parfois légèrement plus chers. La plupart du temps, vous êtes engagés pour un an, ou devez un préavis de 1 à 3 mois avant de pouvoir vous désinscrire.
+
+Au bout de combien de temps changer de programme ?
+Cela dépendra des résultats obtenus sur votre corps et de votre facilité à exécuter les exercices proposés dans le programme que vous pratiquez. Là encore, le coach est le plus à même de vous dire quand est-ce que vous pourrez passer à un autre programme. Retenez aussi qu’il vaut mieux parfois changer avant de se lasser !
+
+Faut-il prendre des compléments alimentaires en plus du sport ?
+Cela n’a aucun caractère obligatoire, et ne dépend que de vos objectifs. Les compléments alimentaires peuvent aider à obtenir de meilleurs résultats et performances dans un certain cadre mais doivent être pris avec soin et rigoureusement encadrés par votre coach. Ils sont d’une manière générale peu recommandés.
+
+Faut-il suivre un régime alimentaire particulier ?
+Gardez en tête que le sport, c’est 30% de vos résultats, et l’alimentation 70% ! Inutile donc de vous rendre régulièrement à la salle si votre hygiène de vie ne suit pas derrière. Diminuez l’alcool, la nourriture grasse et transformée et adoptez un régime alimentaire sain et varié pour obtenir des résultats optimums.
+Débutant(e) en sport : quel est le bon rythme d’entrainement ?
+sport quel bon rythme
+Quand on parle de sport, on peut classer les gens, grosso modo, dans 4 catégories. Ceux qui n’en font pas du tout, ceux qui en font de manière occasionnelle, ceux qui en font beaucoup sans être pro et les pros eux-même. Je schématise un peu, hein.
+
+
+Chacun de ces groupes à des objectifs, des aspirations différentes : si vous ne faites pas de sport du tout, courir un marathon dans 1 mois vous parait impossible (et ça l’est probablement), si vous vous entrainez 3 fois par semaine depuis 4 mois, c’est vraiment pas absurde. Du coup, les gens qui viennent tout juste de se mettre au sport sont parfois un peu perdus avec tout ce qu’ils lisent sur le sujet, qui a souvent été écrit par des sportifs d’autres catégories. Alors on va reprendre du début :
+
+Si je me mets tout juste au sport, c’est quoi, le bon rythme? 
+Vous vous en doutez, il n’y a pas de réponse vraie et absolue à cette question, ça dépend de plusieurs facteurs. Mais on va réfléchir ensemble pour définir VOTRE rythme à vous.
+
+
+Ezoic
+ 
+
+L’erreur de débutant : plus je fais de séances de sport, mieux c’est ! = FAUX
+Le corps apprécie l’exercice physique, ok. Par contre, il n’aime pas être fatigué, il n’aime pas lutter, et il veut que tout soit fait de façon progressive. A moins que vous soyez un sportif de haut niveau, limitez vous à 1 ENTRAINEMENT PAR JOUR MAXIMUM. Concentrez vos efforts sur une séance, une fois que c’est fait c’est plus à faire, et donnez TOUT. On ne fait pas 2 séances « moyennes » à la place d’une grosse, les résultats obtenus sont loin d’être aussi satisfaisants. Aussi parce que le corps a besoin de se reposer pour créer du muscle, et faire plus d’une séance toutes les 24h ne lui permet pas cette réparation là.
+
+
+Ezoic
+chat dort repos
+Voilà. Du repos. Comme ça.
+L’erreur de débutant : se forcer à aller à la salle 3 fois par semaine (si on aime pas ça)
+Tout le monde n’est pas fait pour la salle de sport, ou pour aller courir le matin, ou pour nager tous les jours, ou je ne sais quoi encore. Du coup, si vous vous forcez à faire un truc que vous n’aimez pas trop souvent, vous allez vous braquer, seul, et tout laisser tomber. La salle, ou la course, c’est peut être pas votre bail, ok. Par contre, si ça peut vous aider à atteindre vos objectifs, il va falloir quand même l’incorporer à votre programme. Par contre, utiliser le reste de votre temps dispo pour faire des trucs sportifs que vous aimez ! Si vous remplacez un training par semaine par une heure au mur d’escalade, ou par une séance de corde à sauter, de yoga ou de roller, c’est très bien !
+Le but c’est de se challenger et d’apprendre à aimer de nouvelles disciplines, mais pas à s’imposer quotidiennement des trucs qu’on déteste. Le sport, c’est pour se faire du bien (même si ça fait parfois un peu mal), pas pour se punir !
+
+Mais alors, quel est le bon rythme? 2, 3, 7 séances par semaine?
+Si on commence toujours le sport, on tâche d’être rationnel : on ne va pas passer de 0 à 5 entrainements par semaine, comme peuvent le faire des gens très habitués au sport. Par contre, il faut quand même que ce soit suffisamment régulier et récurrent pour devenir une habitude – histoire qu’à un moment donné, on atteigne sans souci les 4-5 séances par semaine, quand on sera vraiment chaud. L’idéal, c’est qu’il y ait plus de jours par semaine ou l’on fait du sport que de jours ou on en fait pas – donc 4 c’est le must. Mais 3, c’est déjà très bien, et un excellent pallier pour commencer.
+
+assez gif
+Oui, 4 fois, c’est assez.
+Et coté durée, est-ce 30min, c’est assez? Est-ce que 2h, c’est trop?
+Coté durée, on entend toute sorte de choses : au moins 20min, au moins 45… Remettons tout ça au clair.
+
+Déjà, tout exercice est bon à prendre: si vous n’avez que 20 minutes de disponible, alors on va TOUT donner pendant 20min, faire une énorme séance d’interval training qui pique (je vous donnerai des exemples de séance dans l’article d’après, promis), mais on oublie le cardio lent : En effet, 20 minutes, si vous faites un cardio régulier (comme de l’elliptique, du rameurs, du jogging) c’est le moment ou votre corps va arrêter de se servir dans les réserves de glucogènes ( de sucre, donc ) pour taper dans les réserves de graisse. Si c’est pour faire que 20minutes et à peine lancer le processus pour arrêter, on oublie. L’interval va faire monter le cardio beaucoup plus vite, travailler les muscles (donc appeler à une reconstruction musculaire derrière), et si on ne tapera pas dans les réserves de gras, on va consommer beaucoup plus de sucre à disposition et brûler plus de calories.
+
+Evidemment, une séance d’1h à 1h30 est optimale, parce qu’elle permet de décomposer beaucoup plus l’efforts : échauffement, travail effectif (que ce soit cardio ou renfo avec 20min de cardio en fin d’entrainement) puis étirements.
+
+Au delà de 2h, si vous n’avez pas l’habitude, ou si on parle d’un effort relativement intense, ça devient (très) fatiguant pour le corps, et les risques de blessures augmentent. Si on est chauds de temps en temps et qu’on a un peu de temps devant nous, pourquoi pas, mais on évite que ça se reproduise trop souvent.
+
+ 
+
+Alors, pour résumer? 
+Si on se lance, une activité sportive 3 ou 4 fois par semaine (mais pas forcément toujours la même ! )
+il faut 3 semaines pour prendre une habitude, alors on ne lâche RIEN, surtout au début
+On ne fait pas plus d’un entrainement par jour
+Entre 1h et 1h30 si possible, mais si c’est moins, c’est toujours mieux que rien (par contre on fait le plus intense possible) !
+ 
+
+botter des fesses
+Et maintenant, c’est le moment pour aller botter des fesses.
+ 
+
+Vous êtes prêt-e-s? C’est quoi votre rythme à vous? Dites moi tout en commentaire!
+
+Nouvelle résolution : Comment bien commencer le sport
+
+En ce début d’année 2020, vous mettre au sport fait partie de vos résolutions ? (enfin, vraiment cette fois-ci…) Vous avez bien raison. Avant de bien commencer, vous devez vous poser un tas de questions, les Cercles de la Forme vous donnent donc quelques conseils pour bien commencer votre parcours sportif !
+
+ 
+Commencez doucement…
+
+Si c’est votre première fois en salle de sport, ou la première séance après une longue absence, il est préférable de débuter tranquillement avec des exercices fitness. De cette manière, vous éviterez les douleurs musculaires, vous récupérerez plus efficacement, et surtout vous éviterez de vous blesser. Lorsque l’on débute, il est primordial d’y aller par étape et de ne pas voir trop grand dès le début, il arrive souvent que l’on veuille directement charger lourdement les machines, et la seule chose qui ressort de cet acte sont douleurs et blessures, mais pas de progrès. Commencez avec des poids légers, et entraînez-vous jusqu’à ce que vous soyez capable d’augmenter, et ainsi, petit à petit vous arriverez à des charges plus lourdes dans votre séance de musculation.
+
+ 
+Tenez votre progression à jour !
+
+Afin de mesurer et apprécier vos progrès, il est important de noter son évolution. Retenir dans sa tête le poids utilisé lors de la dernière séance ne suffit pas, vous devez être capable de savoir quel poids vous portez pour quel exercice, avec quel nombre de répétitions pour combien de séries. C’est un point culminant pour mener à bien votre aventure sportive.
+
+ 
+N’hésitez pas à demander de l’aide !
+
+Il est normal d’avoir beaucoup de questions lorsque l’on débute. Par exemple : comment fonctionne cet appareil ? Est-ce que j’exécute bien cet exercice ? N’hésitez pas à demander aux personnes autour de vous, coachs ou autres sportifs. En salle, on échange beaucoup et on a beaucoup à apprendre des autres; il se peut sûrement que des personnes viennent d’elles-mêmes pour vous aider.
+
+Si vous nécessitez des conseils pour établir votre programme, que vous ne savez pas quels exercices faire, combien de séries, ou toutes autres questions techniques, sachez qu’avec vos abonnements “Forme” et “Vitalité”, vous bénéficiez de l’accompagnement d’un coach personnel et d’un suivi personnalisé tout au long de votre aventure chez les Cercles.
+Si vous hésitez à vous lancer, sachez qu’il existe un pack “Starter” comprenant 3 séances de 30 minutes avec un coach personnel ! Cela pourrait vous aider à vous décider. Enfin, il est également possible de profiter d’un essai gratuit ! Avec toutes ces possibilités, nous vous attendons dans nos Cercles.
+
+Définir des objectifs réalistes et mesurables
+1. Fixer des objectifs spécifiques
+
+Déterminez des buts clairs et atteignables. Par exemple, augmenter la vitesse de course sur une certaine distance ou améliorer les performances de force sur des exercices spécifiques. Évitez les objectifs vagues comme "être en meilleure forme" et privilégiez des objectifs précis comme "augmenter mon endurance en courant 5 kilomètres en moins de 30 minutes".
+2. Suivre et ajuster
+
+Gardez une trace de vos progrès en tenant un journal d'entraînement. Analysez ces données pour ajuster vos objectifs, votre intensité d'entraînement et votre récupération en fonction de vos progrès.
+Garder une trace de ses progrès permet d'ajuster son entraînement de façon optimale.
+Diversifier l'entraînement
+3. Introduire la polyvalence
+
+Variez les types d'exercices pour solliciter différents groupes musculaires et stimuler votre motivation. Intégrez des activités cardiovasculaires, de la musculation, du stretching et des activités de renforcement spécifiques à votre sport. La variation vous permettra d'éviter l'ennui et de rester motivé.
+4. Repos et récupération
+
+Accordez à votre corps le temps nécessaire pour récupérer. Intégrez des jours de repos actifs pour favoriser la récupération musculaire et éviter les blessures. Le repos actif, comme la marche légère ou le yoga, privilégie la récupération musculaire tout en évitant la fatigue excessive.
+ 
+Alimentation adaptée et hydratation
+5. Équilibrer l'alimentation
+
+Adoptez une alimentation variée et équilibrée, adaptée à vos besoins énergétiques. Une assiette bien équilibrée comprend les 3 types de macronutriments :
+
+    les protéines pour la récupération musculaire
+    les glucides pour l'énergie
+    les lipides pour le métabolisme.
+Une assiette équilibrée comprend des féculents, des protéines, des légumes et des graisses.
+6. Hydratation optimale
+
+Buvez suffisamment d'eau avant, pendant et après l'entraînement pour maintenir une hydratation adéquate. Évitez les boissons énergisantes riches en sucre et privilégiez l'eau pour une hydratation saine et efficace. Buvez idéalement au moins 1,5-2L d'eau sur la journée.
+ 
+Prendre soin des muscles secondaires et des articulations
+7. Renforcer les muscles de soutien
+
+Intégrez des exercices visant à renforcer les muscles souvent négligés, mais cruciaux pour la stabilité et la prévention des blessures, comme :
+
+    les muscles du dos
+    les muscles stabilisateurs des épaules
+    les muscles du tronc.
+
+8. Échauffement et étirements
+
+Avant toute séance d'entraînement, consacrez du temps à un échauffement dynamique pour préparer les muscles et les articulations. Terminez chaque séance par des étirements pour améliorer la flexibilité et réduire les risques de blessures.
+ 
+Optimiser les vêtements et les équipements
+9. Choisir des vêtements adaptés
+
+Optez pour des vêtements confortables et respirants qui permettent une liberté de mouvement tout en évacuant la transpiration pour maintenir votre confort pendant l'entraînement.
+10. Utiliser des équipements de qualité
+
+Investissez dans des équipements adaptés à votre sport ou à votre activité physique. Des chaussures de course adéquates, du matériel de musculation approprié ou des accessoires spécifiques peuvent améliorer la performance et réduire les risques de blessures.
+L'équilibre entre planification, exécution et attention portée aux muscles secondaires et aux articulations est la clé pour progresser de manière constante et saine. L'optimisation de votre routine d'entraînement est un voyage continu. Soyez attentif à votre corps, ajustez votre programme en fonction de vos besoins et restez engagé dans votre discipline. En adoptant cette approche, vous vous assurez non seulement d'atteindre vos objectifs, mais aussi de cultiver une passion durable pour votre pratique sportive.

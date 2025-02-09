@@ -1,0 +1,14 @@
+entrainement
+(1) - marche/active : min : 14 moy : 27 max : 40 inc : 1 unit : min
+(2) - footing : min : 14 moy : 27 max : 40 inc : 1 unit : min
+(3) - accélération/progressive : min : 14 moy : 27 max : 40 inc : 1 unit : min
+
+exercice
+(1) - course/(distance) : min : 85 moy : 115 max : 150 inc : 5 unit : hm
+(2) - course/(temps) : min : 80 moy : 100 max : 120 inc : 5 unit : min
+(3) - pyramide/de/VMA : min : 1 moy : 1 max : 1 inc : 1 unit : cycle
+
+findeseance
+(1) - étirement : min : 10 moy : 15 max : 20 inc : 1 unit : min
+(2) - marche : min : 10 moy : 15 max : 20 inc : 1 unit : min
+(3) - trottiner : min : 10 moy : 15 max : 20 inc : 1 unit : min
