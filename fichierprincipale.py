@@ -10,6 +10,7 @@ import programmecreator as pc
 import analyseur as an
 
 def doweneedtorecalculateeverything(): #programme pour savoir combien de fois le programme a été lancé
+     jean = 0
      try:
           with open("buffer/numberoftimethisprogramwasopen.txt", "r",encoding='utf-8') as number:
                for i in number:
@@ -17,6 +18,7 @@ def doweneedtorecalculateeverything(): #programme pour savoir combien de fois le
      except:
           with open("buffer/numberoftimethisprogramwasopen.txt", "w", encoding='utf-8') as number:
                number.write("1")
+     if jean == 0 :
           return
      print(jean)
      if jean == 10:
