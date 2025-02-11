@@ -41,7 +41,7 @@ def programmelecture(file):
         listefindeseance.append(matriceaanalysee[i])
     return listeentrainement,listeexercice,listefindeseance
 
-def séancecreatornew(niveau, user):
+def seancecreatornew(niveau, user):
     save = open(user,"a",encoding="utf-8")
     temps = 0
     unit = 0
@@ -117,7 +117,7 @@ def improvedico(user): #fonction utiliser si le programme n'a pas réussi a comp
         print ("vous êtes donc un débutant...")
         save.write("niveau : debutant\n")
         save.close()
-        séancecreatornew("exercicepossible/niveaudebutant.txt", user)
+        seancecreatornew("exercicepossible/niveaudebutant.txt", user)
         dossierdbutant = open("dossierteste/dossiertestniveudebutant.txt", "a", encoding='utf-8')
         for i in reponseutilisateur:
             dossierdbutant.write(i)
@@ -125,7 +125,7 @@ def improvedico(user): #fonction utiliser si le programme n'a pas réussi a comp
         print ("vous êtes donc un intermédiaire...")
         save.write("niveau : intermédiaire\n")
         save.close()
-        séancecreatornew("exercicepossible/niveauintermédiaire.txt", user)
+        seancecreatornew("exercicepossible/niveauintermédiaire.txt", user)
         dossierdbutant = open("dossierteste/dossiertestniveauintermédiaire.txt", "a",encoding='utf-8')
         for i in reponseutilisateur:
             dossierdbutant.write(i)
@@ -133,7 +133,7 @@ def improvedico(user): #fonction utiliser si le programme n'a pas réussi a comp
         print ("vous êtes donc un avancé...")
         save.write("niveau : avancé\n")
         save.close()
-        séancecreatornew("exercicepossible/niveauavancé.txt", user)
+        seancecreatornew("exercicepossible/niveauavancé.txt", user)
         dossierdbutant = open("dossierteste/dossiertesteniveauavancé.txt", "a", encoding='utf-8')
         for i in reponseutilisateur:
             dossierdbutant.write(i)
@@ -155,7 +155,7 @@ def programmecreatorfornewuser(user):
             print("nous allons ajouter les niveaux de bases associés au niveau avancé...")
             save.write("niveau : avancé\n")
             save.close()
-            séancecreatornew("exercicepossible/niveauavancé.txt", user)
+            seancecreatornew("exercicepossible/niveauavancé.txt", user)
             return
         else : 
             improvedico(user)
@@ -167,7 +167,7 @@ def programmecreatorfornewuser(user):
             print("nous allons ajouter les niveaux de bases associés au niveau intermedière...")
             save.write("niveau : intermédiaire\n")
             save.close()
-            séancecreatornew("exercicepossible/niveauintermédiaire.txt", user)
+            seancecreatornew("exercicepossible/niveauintermédiaire.txt", user)
             return
         else : 
             improvedico(user)
@@ -179,7 +179,7 @@ def programmecreatorfornewuser(user):
             print("nous allons ajouter les niveaux de bases associés au niveau débutant...")
             save.write("niveau : debutant\n")
             save.close()
-            séancecreatornew("exercicepossible/niveaudebutant.txt", user)
+            seancecreatornew("exercicepossible/niveaudebutant.txt", user)
             return
         else : 
             save.close()

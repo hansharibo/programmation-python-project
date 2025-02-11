@@ -10,19 +10,17 @@ import programmecreator as pc
 import analyseur as an
 
 def doweneedtorecalculateeverything(): #programme pour savoir combien de fois le programme a été lancé
-     nb_ouverture = 0
      try:
-          with open("buffer/numberoftimethisprogramwasopen.txt", "r",encoding='utf-8') as file:
-               for number in file:
-                    nb_ouverture = int(number)
+          with open("buffer/numberoftimethisprogramwasopen.txt", "r",encoding='utf-8') as number:
+               for i in number:
+                    jean = int(i)
      except:
           with open("buffer/numberoftimethisprogramwasopen.txt", "w", encoding='utf-8') as number:
                number.write("1")
-     if nb_ouverture == 0 :
           return
-     print(nb_ouverture)
-     if nb_ouverture == 10:
-          nb_ouverture = 0
+     print(jean)
+     if jean == 10:
+          jean = 0
           an.newmoy()
           an.dicocreate("dossierteste/dossier bien.txt","dicotestbien")
           an.dicocreate("dossierteste/dossier pas bien.txt", "dicotestmal")
@@ -32,9 +30,9 @@ def doweneedtorecalculateeverything(): #programme pour savoir combien de fois le
           an.dicocreate("dossierteste/dossiertestniveauintermédiaire.txt","dicotestIAIntermediaire")
           an.dicocreate("dossierteste/dossiertesteniveauavancé.txt","dicotestIAAvancé")
      else:     
-          nb_ouverture+= 1
-     with open("buffer/numberoftimethisprogramwasopen.txt", "w", encoding='utf-8') as file_writer:
-          file_writer.write(str(nb_ouverture))
+          jean += 1
+     with open("buffer/numberoftimethisprogramwasopen.txt", "w", encoding='utf-8') as number:
+          number.write(str(jean))
      return
      
 
@@ -67,15 +65,12 @@ dicobien = "dico/dicotestbien.dico"
 dicosupbien = "dico/dicobiennew.dico"
 print("comment allez vous ?")
 text = input("réponse :")
-with open("buffer/reponseutilisateur.rp", "w", encoding='utf-8') as fichier :
-     fichier.write(text)
-print(lf.classeur("buffer/reponseutilisateur.rp", dicomal))
-print(lf.classeur("buffer/reponseutilisateur.rp", dicosupmal))
-print(lf.classeur("buffer/reponseutilisateur.rp", dicobien))
-print(lf.classeur("buffer/reponseutilisateur.rp", dicosupbien))
-if lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal)> lf.classeur("buffer/reponseutilisateur.rp", dicobien) + lf.classeur("buffer/reponseutilisateur.rp", dicosupbien):
+fichier = open("buffer/reponseutilisateur.rp", "w", encoding='utf-8')
+fichier.write(text)
+fichier.close()
+if lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal)> lf.classeur("buffer/reponseutilisateur.rp", dicobien) :
      print("ne vous inquiétez pas un peu de sport vous fera oublier vos problèmes")
-elif lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal) < lf.classeur("buffer/reponseutilisateur.rp", dicobien) + lf.classeur("buffer/reponseutilisateur.rp", dicosupbien):
+elif lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal) < lf.classeur("buffer/reponseutilisateur.rp", dicobien):
      print("parfait vous voilà d'attaque pour une merveilleuse séance de sport")
 else:
      print("il semblerait que vos émotions ne vous submerge pas, en espérant que vous ressentirez quelque chose au cours cette nouvelle session")

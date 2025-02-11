@@ -66,34 +66,34 @@ def newmoy(): #fonction qui reattribut les moyennes en fonction des utilisateurs
 def dicocreate(filetoanalyse, namedico): # fonction qui a partir d'un fichier brut classe, tri et donne une valeur au mot en focntion de leur importance
     analyse = open(filetoanalyse,"r",encoding='utf-8')
     nonanalyseur = ["le","la", "l'", "les","ou","en","dans", "au", "aux", "du" ,"des", "mon" ,"ma", "mes", "ton" ,"ta" ,"tes" ,"son", 'sa', "ses", "notre", "nos", "votre", "vos"," leur", "leurs", "ce", "cet", "cette", "ceci", "ceux-ci", "cela", "ces", "un" ,"une", "des", "d'", "du","de","à","et","qu'","qui","que","quoi","pour"]
-    liste_mot = []
-    liste_mot_trie =[]
+    jean = []
+    jean2 =[]
     recurrenceinliste = []
     for i in analyse:
-        liste_mot.append(i)
+        jean.append(i)
     analyse.close()
-    liste_mot = lf.matricetomatrice(lf.matricetoliste(liste_mot))
-    for i in liste_mot:
+    jean = lf.matricetomatrice(lf.matricetoliste(jean))
+    for i in jean:
         reccurrence = 0
-        for j in liste_mot:
+        for j in jean:
             if i == j and j not in nonanalyseur:
                 reccurrence += 1
         if reccurrence >= 10 and i.lower() not in nonanalyseur:
             recurrenceinliste.append(reccurrence)
-            liste_mot_trie.append(i.replace("\n","").lower())
-    if liste_mot_trie != []:
-        liste_mot_trie.sort()
+            jean2.append(i.replace("\n","").lower())
+    if jean2 != []:
+        jean2.sort()
         i=0
-        while i != len(liste_mot_trie)-1:
-            if liste_mot_trie[i] == liste_mot_trie[i +1]:
-                liste_mot_trie.remove(liste_mot_trie[i])
+        while i != len(jean2)-1:
+            if jean2[i] == jean2[i +1]:
+                jean2.remove(jean2[i])
                 i = 0
             else :
                 i+=1
         ecrituredico = open("dico/" + namedico + ".dico", "w", encoding="utf-8")
-        for i in liste_mot_trie :
+        for i in jean2 :
             if i !='' and i not in nonanalyseur:
-                ecrituredico.write(i + " : " + str(recurrenceinliste[liste_mot_trie.index(i)]) +"\n")
+                ecrituredico.write(i + " : " + str(recurrenceinliste[jean2.index(i)]) +"\n")
         print("fichier modifié avec vos préférences")
     else :
         print("aucune préference n'a été ajouté")
@@ -101,22 +101,22 @@ def dicocreate(filetoanalyse, namedico): # fonction qui a partir d'un fichier br
     return
 
 def comparateurdedico(diconom1, diconom2,nom):#fonction qui permet de supprimer les mots qui existe déja dans un dico, ce qui a pour but d'amplifier l'importance des mots propre a un dico
-    dico1_listify = []
-    dico2_listify = []
+    jean1 = []
+    jean2 = []
     listeintermediaire = []
     liseurdico1 = open(diconom1,"r",encoding='utf-8')
     for i in liseurdico1:
-        dico1_listify.append(lf.matricetomatriceint(i.replace("\n","")))
+        jean1.append(lf.matricetomatriceint(i.replace("\n","")))
     liseurdico1.close()
     liseurdico2 = open(diconom2, "r",encoding='utf-8')
     for i in liseurdico2:
-        dico2_listify.append(lf.matricetomatriceint(i.replace("\n","")))
+        jean2.append(lf.matricetomatriceint(i.replace("\n","")))
     liseurdico2.close()
-    for i in dico1_listify:
+    for i in jean1:
         if i != []:
             listeintermediaire.append(i[0])
     ecrituredico = open("dico/"+nom+"new.dico", "w",encoding='utf-8')
-    for i in dico2_listify:
+    for i in jean2:
         print (i)
         if i != []:
             if i[0] not in listeintermediaire:

@@ -1,0 +1,11 @@
+entrainement
+(1) - étirement : min : 2 moy : 18 max : 9 inc : 1
+(2) - marche/active : min : 2 moy : 4 max : 9 inc : 1
+(3) - footing : min : 2 moy : 4 max : 9 inc : 1
+exercice
+(1) - course/(distance) : min : 20 moy : 40 max : 50 inc : 5
+(2) - course/(temps) : min : 15 moy : 30 max : 45 inc : 5
+
+findeseance
+(1) - étirement : min : 5 moy : 8 max : 10 inc : 1
+(2) - marche : min : 5 moy : 8 max : 10 inc : 1

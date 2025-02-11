@@ -1,6 +1,4 @@
-
-"""
-def modifseancegen(user,isexercicehard,num):
+def modifséancegen(user,isexercicehard,num):
     newentrainement = []
     type = ["entrainement","exercice","final"]
     listeentrainement,listeseance,listefinalex = pc.programmelecture("exercicepossible/niveau"+lf.mattostring(lf.chercherinfo("niveau", user))+".txt")
@@ -163,4 +161,3 @@ def modifseancegen(user,isexercicehard,num):
     else:     
         lf.modifinfo(user, type[num - 1], entrainement[0] + " " + str(valeur + inc) + unit)
     print("votre ",type[num - 1], " a été mis a jour...")
-"""

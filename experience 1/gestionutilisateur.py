@@ -10,7 +10,7 @@ dicomal ="dico/dicotestmal.dico"
 dicosupmal =dicomal
 dicobien = "dico/dicotestbien.dico"
 
-def modifseancegen(user,isexercicehard,num):
+def modifséancegen(user,isexercicehard,num):
     newentrainement = []
     type = ["entrainement","exercice","final"]
     listeentrainement,listeseance,listefinalex = pc.programmelecture("exercicepossible/niveau"+lf.mattostring(lf.chercherinfo("niveau"+ type[num -1], user))+".txt")
@@ -61,8 +61,8 @@ def modifseancegen(user,isexercicehard,num):
         while listefinal[i] != entrainement[0]:
             i+=1
         i -= 2
-        niveausup = "(" + str(int(listefinal[i][1]) + 1 ) + ")"
-        if niveausup not in listefinal:
+        nieveausup = "(" + str(int(listefinal[i][1]) + 1 ) + ")"
+        if nieveausup not in listefinal:
             print("ils semblerait qu'il vous faille changer de niveau")
             niveauutilisateur = lf.mattostring(lf.chercherinfo( "niveau"+ type[num -1],user))
             listeniveau = ['debutant', 'intermédiaire', 'avancé']
@@ -98,7 +98,7 @@ def modifseancegen(user,isexercicehard,num):
                         input("appuyer sur entrée pour continuer...")
         else:
             i = 0
-            while niveausup != listefinal[i]:
+            while nieveausup != listefinal[i]:
                 i+=1
             i+=2
             entrainement = []
@@ -118,8 +118,8 @@ def modifseancegen(user,isexercicehard,num):
         while listefinal[i] != entrainement[0]:
             i+=1
         i -= 2
-        niveausup = "(" + str(int(listefinal[i][1]) - 1) + ")"
-        if niveausup not in listefinal:
+        nieveausup = "(" + str(int(listefinal[i][1]) - 1) + ")"
+        if nieveausup not in listefinal:
             print("ils semblerait qu'il vous faille changer de niveau")
             niveauutilisateur = lf.mattostring(lf.chercherinfo( "niveau"+ type[num -1], user))
             listeniveau = ['debutant', 'intermédiaire', 'avancé']
@@ -155,7 +155,7 @@ def modifseancegen(user,isexercicehard,num):
                         input("appuyer sur entrée pour continuer...")
         else:
             i = 0
-            while niveausup != listefinal[i]:
+            while nieveausup != listefinal[i]:
                 i+=1
             i+=2
             entrainement = []
@@ -196,7 +196,7 @@ def lookingforexistinguser(fichier):#programme qui cherche si l'utilisateur exis
     except:
         return False
 
-def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas dans l'entrainement
+def entrainementraté(user): #programme qui permet de voir ce qui n'allait pas dans l'entrainement
     print("comment vous sentiez vous pendant l'entrainement ?")
     avisentrainement = input(":>")
     with open("buffer/reponseutilisateur.rp", "w", encoding='utf-8') as avis:
@@ -217,9 +217,9 @@ def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas da
                 print("votre entrainement était il trop dur ?(y/n)")
                 choix = input(':>')
             if choix == 'y' or choix == 'Y':
-                modifseancegen(user , True,1)
+                modifséancegen(user , True,1)
             else: 
-                modifseancegen(user, False,1)
+                modifséancegen(user, False,1)
         else:
             with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -242,9 +242,9 @@ def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas da
                 print("votre entrainement était il trop dur ?(y/n)")
                 choix = input(':>')
             if choix == 'y' or choix == 'Y':
-                modifseancegen(user , True,1)
+                modifséancegen(user , True,1)
             else: 
-                modifseancegen(user, False,1)
+                modifséancegen(user, False,1)
         else:
             with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -271,9 +271,9 @@ def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas da
                 print("votre exercice était il trop dur ?(y/n)")
                 choix = input(':>')
             if choix == 'y' or choix == 'Y':
-                modifseancegen(user , True,2)
+                modifséancegen(user , True,2)
             else: 
-                modifseancegen(user, False,2)
+                modifséancegen(user, False,2)
         else:
             with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -296,9 +296,9 @@ def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas da
                 print("votre exercice était il trop dur ?(y/n)")
                 choix = input(':>')
             if choix == 'y' or choix == 'Y':
-                modifseancegen(user , True,2)
+                modifséancegen(user , True,2)
             else: 
-                modifseancegen(user , False,2)
+                modifséancegen(user , False,2)
         else:
             with open('dossierteste/dossier bien.txt', 'a',encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -325,9 +325,9 @@ def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas da
                 print("votre fin de séance était elle trop dur ?(y/n)")
                 choix = input(':>')
             if choix == 'y' or choix == 'Y':
-                modifseancegen(user , True,3)
+                modifséancegen(user , True,3)
             else: 
-                modifseancegen(user , False,3)
+                modifséancegen(user , False,3)
         else:
             with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -350,9 +350,9 @@ def entrainementrate(user): #programme qui permet de voir ce qui n'allait pas da
                 print("votre fin de séance était elle trop dur ?(y/n)")
                 choix = input(':>')
             if choix == 'y' or choix == 'Y':
-                modifseancegen(user , True,3)
+                modifséancegen(user , True,3)
             else: 
-                modifseancegen(user , False,3)
+                modifséancegen(user , False,3)
         else:
             with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -378,7 +378,7 @@ def avisutilisateur(user):# programme qui permet de connaitre l'avis de l'utilis
                         save.write(i)
                         save.write(" ")
             print("essayons de comprendre ce qu'il n'allait pas...")
-            entrainementrate(user)
+            entrainementraté(user)
         else:
             with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
@@ -399,7 +399,7 @@ def avisutilisateur(user):# programme qui permet de connaitre l'avis de l'utilis
                         save.write(i)
                         save.write(" ")
             print("essayons de comprendre ce qu'il n'allait pas...")
-            entrainementrate(user)
+            entrainementraté(user)
         else:
             with open('dossierteste/dossier bien.txt', 'a',encoding='utf-8') as save:
                 with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
