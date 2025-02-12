@@ -56,7 +56,19 @@ def recognise_emotion(user):
                                         save.write(i)
                                         save.write(" ")
                choix = -1
-          else :              
+          else :     
+               if choix == 2 :
+                    with open('dossierteste/dossier pas bien.txt', 'a', encoding='utf-8') as save:
+                         with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
+                              for i in reponse:
+                                   save.write(i)
+                                   save.write(" ")
+               elif choix == 1 :
+                    with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
+                         with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
+                              for i in reponse:
+                                   save.write(i)
+                                   save.write(" ")         
                with open("buffer/reponseutilisateur.rp", "w", encoding='utf-8') as fichier :
                     fichier.write(text)
                print(lf.classeur("buffer/reponseutilisateur.rp", dicomal))
@@ -64,14 +76,14 @@ def recognise_emotion(user):
                print(lf.classeur("buffer/reponseutilisateur.rp", dicobien))
                print(lf.classeur("buffer/reponseutilisateur.rp", dicosupbien))
                if lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal)> lf.classeur("buffer/reponseutilisateur.rp", dicobien) + lf.classeur("buffer/reponseutilisateur.rp", dicosupbien):
-                    print("ne vous inquiétez pas, " + str(user) + " un peu de sport vous fera oublier vos problèmes")
+                    print("ne vous inquiétez pas, " + str(user) + " je suis la pour vous écouter... n'hesitez pas je ne suis peut-être pas le meilleur mais je peux vous écouter")
                     choix = 2
                elif lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal) < lf.classeur("buffer/reponseutilisateur.rp", dicobien) + lf.classeur("buffer/reponseutilisateur.rp", dicosupbien):
-                    print("parfait " + str(user) + " vous voilà d'attaque pour une merveilleuse séance de sport")
+                    print("c'est une bonne nouvelle " + str(user) + " je suis heureux de l'apprendre qu'avez d'autres a me dire ?")
                     choix = 1
                else:
                     choix = 3
-                    print("il semblerait " + str(user) + " que vos émotions ne vous submerge pas, en espérant que vous ressentirez quelque chose au cours cette nouvelle session")
+                    print("mmmh...interressant avez vous d'autres chose ?")
 
 def doweneedtorecalculateeverything(): #programme pour savoir combien de fois le programme a été lancé
      nb_ouverture = 0

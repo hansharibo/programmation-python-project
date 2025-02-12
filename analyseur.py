@@ -78,7 +78,7 @@ def dicocreate(filetoanalyse, namedico): # fonction qui a partir d'un fichier br
         for j in liste_mot:
             if i == j and j not in nonanalyseur:
                 reccurrence += 1
-        if reccurrence >= 10 and i.lower() not in nonanalyseur:
+        if reccurrence >= 10 and i.lower() not in nonanalyseur: #nombre d'occurence min pour q'un mot soit accepté
             recurrenceinliste.append(reccurrence)
             liste_mot_trie.append(i.replace("\n","").lower())
     if liste_mot_trie != []:
@@ -117,7 +117,7 @@ def comparateurdedico(diconom1, diconom2,nom):#fonction qui permet de supprimer 
             listeintermediaire.append(i[0])
     ecrituredico = open("dico/"+nom+"new.dico", "w",encoding='utf-8')
     for i in dico2_listify:
-        print (i)
+        #print (i)
         if i != []:
             if i[0] not in listeintermediaire:
                 ecrituredico.write(i[0] + " : " + i[-1]+"\n")
