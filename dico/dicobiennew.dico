@@ -1,7 +1,7 @@
 abord : 695
 actes : 988
 action : 12
-actions : 12
+actions : 13
 agréable : 16
 ailleurs : 54
 aimer : 695
@@ -16,8 +16,8 @@ attachement : 695
 atteindre : 251
 augustin : 988
 aura : 16
-autant : 148
-autrui : 607
+autant : 149
+autrui : 608
 beauté : 78
 besoins : 276
 biens : 187
@@ -40,7 +40,7 @@ commandement : 297
 compassion : 251
 comportement : 988
 compréhension : 77
-concept : 148
+concept : 149
 conception : 988
 connaissance : 251
 consiste : 30
@@ -56,7 +56,7 @@ crois : 695
 culture : 988
 davantage : 12
 david : 372
-delà : 607
+delà : 608
 devoir : 338
 différence : 123
 différentes : 695
@@ -83,7 +83,7 @@ grands : 251
 guerre : 58
 généralement : 10
 harmonie : 297
-heureuse : 607
+heureuse : 608
 histoire : 343
 humains : 123
 humanité : 31
@@ -97,10 +97,10 @@ journée : 156
 judaïsme : 695
 justice : 343
 kant : 372
-l&# : 607
+l&# : 608
 liberté : 82
 loi : 43
-marx : 607
+marx : 608
 matthieu : 18
 met : 200
 mikhaël : 12
@@ -135,7 +135,7 @@ plains : 123
 plaisirs : 176
 plan : 22
 platon : 103
-plénitude : 125
+plénitude : 126
 politique : 276
 positive : 695
 possède : 68
@@ -159,14 +159,14 @@ relation : 372
 relations : 18
 repose : 59
 ressentir : 200
-richesse : 607
+richesse : 608
 robert : 251
 ruth : 218
 réside : 695
 sage : 988
 sagesse : 695
 saint : 176
-sait : 148
+sait : 149
 satisfaction : 200
 satisfaire : 218
 sciences : 160
@@ -204,7 +204,7 @@ termes : 129
 thomas : 123
 thème : 17
 théorie : 10
-travailler : 607
+travailler : 608
 travers : 303
 trouve : 303
 univers : 695
@@ -223,9 +223,9 @@ vision : 988
 vit : 343
 volonté : 112
 vouloir : 267
-vrai : 12
+vrai : 13
 vraiment : 267
-vécu : 12
+vécu : 13
 xxe : 267
 économie : 303
 écrit : 24

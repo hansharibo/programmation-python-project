@@ -9,6 +9,70 @@ import lecturefichier as lf
 import programmecreator as pc
 import analyseur as an
 
+def recognise_emotion(user):
+     
+     dicomal ="dico/dicotestmal.dico"
+     dicosupmal ="dico/dicomalnew.dico"
+     dicobien = "dico/dicotestbien.dico"
+     dicosupbien = "dico/dicobiennew.dico"
+     choix = -1
+     while(1):
+          
+          print("comment allez vous ?")
+          text = input("réponse :")
+          if text == "quit":
+               break
+          elif text =="!":
+               if choix == 1 :
+                    with open('dossierteste/dossier pas bien.txt', 'a', encoding='utf-8') as save:
+                         with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
+                              for i in reponse:
+                                   save.write(i)
+                                   save.write(" ")
+               elif choix == 2 :
+                    with open('dossierteste/dossier bien.txt', 'a', encoding='utf-8') as save:
+                         with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
+                              for i in reponse:
+                                   save.write(i)
+                                   save.write(" ")
+               elif choix == -1 :
+                    print("nous ne pouvons traitez une requète sans l'avoir traite")
+               else:
+                    while choix != 'n' and choix != 'N' and choix != 'P' and choix != 'p':
+                         print("la réponse et (n)égative ou (p)ositive ?")
+                         choix = input(":>")
+                    if choix == 'n' or choix == 'N':
+                         print("nous sommes désolé pour la gène occasionnée")
+                         with open('dossierteste/dossier pas bien.txt', 'a', encoding='utf-8') as save:
+                              with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
+                                   for i in reponse:
+                                        save.write(i)
+                                        save.write(" ")
+                         print("essayons de comprendre ce qu'il n'allait pas...")
+                    else:
+                         with open('dossierteste/dossier bien.txt', 'a',encoding='utf-8') as save:
+                              with open("buffer/reponseutilisateur.rp",'r', encoding='utf-8') as reponse:
+                                   for i in reponse:
+                                        save.write(i)
+                                        save.write(" ")
+               choix = -1
+          else :              
+               with open("buffer/reponseutilisateur.rp", "w", encoding='utf-8') as fichier :
+                    fichier.write(text)
+               print(lf.classeur("buffer/reponseutilisateur.rp", dicomal))
+               print(lf.classeur("buffer/reponseutilisateur.rp", dicosupmal))
+               print(lf.classeur("buffer/reponseutilisateur.rp", dicobien))
+               print(lf.classeur("buffer/reponseutilisateur.rp", dicosupbien))
+               if lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal)> lf.classeur("buffer/reponseutilisateur.rp", dicobien) + lf.classeur("buffer/reponseutilisateur.rp", dicosupbien):
+                    print("ne vous inquiétez pas, " + str(user) + " un peu de sport vous fera oublier vos problèmes")
+                    choix = 2
+               elif lf.classeur("buffer/reponseutilisateur.rp", dicomal) + lf.classeur("buffer/reponseutilisateur.rp", dicosupmal) < lf.classeur("buffer/reponseutilisateur.rp", dicobien) + lf.classeur("buffer/reponseutilisateur.rp", dicosupbien):
+                    print("parfait " + str(user) + " vous voilà d'attaque pour une merveilleuse séance de sport")
+                    choix = 1
+               else:
+                    choix = 3
+                    print("il semblerait " + str(user) + " que vos émotions ne vous submerge pas, en espérant que vous ressentirez quelque chose au cours cette nouvelle session")
+
 def doweneedtorecalculateeverything(): #programme pour savoir combien de fois le programme a été lancé
      nb_ouverture = 0
      try:
@@ -58,6 +122,7 @@ def menu(user):#programme qui permet d'avoir le menu pour les utilisateurs
           else :
                print("commande non reconnue ou non implémantée")
 
+
 logo = open("logo.logo","r", encoding='utf-8')
 print(logo.read())
 fileuser ="utilisateur.ut"
@@ -87,6 +152,16 @@ if isitarealuser == False:
     gu.createnewuser()
 else :
     print("bienvenu ", nomutilisateur)
-    menu(nomutilisateur)
+    #decommenter la ligne d'après si vous voulez avoir accès au programme d'origine
+    #menu(nomutilisateur)
+    recognise_emotion(nomutilisateur)
     print("merci d'avoir utilisé le Z.E.U.S. pour manager vos session de sport")
+an.newmoy()
+an.dicocreate("dossierteste/dossier bien.txt","dicotestbien")
+an.dicocreate("dossierteste/dossier pas bien.txt", "dicotestmal")
+an.comparateurdedico("dico/dicotestbien.dico", "dico/dicotestmal.dico","dicomal")
+an.comparateurdedico("dico/dicotestmal.dico", "dico/dicotestbien.dico","dicobien")
+an.dicocreate("dossierteste/dossiertestniveaudebutant.txt","dicotestniveaudebutant")
+an.dicocreate("dossierteste/dossiertestniveauintermédiaire.txt","dicotestIAIntermediaire")
+an.dicocreate("dossierteste/dossiertesteniveauavancé.txt","dicotestIAAvancé")
 doweneedtorecalculateeverything()
